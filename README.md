@@ -66,4 +66,4 @@ Information on how to use the project.
 Guidelines for contributing to the project.
 
 </details>
-
+<span style="font-size: smaller;">This text will have a smaller font size.</span>

@@ -104,3 +104,6 @@ This is a description of my project.
 <h6>hello</h6>
 <h7>hello</h7>
 <h8>hello</h8>
+
+<p style="font-size:1px;">This text will be smaller</p>
+

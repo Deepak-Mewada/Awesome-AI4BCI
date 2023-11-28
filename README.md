@@ -73,4 +73,18 @@ Guidelines for contributing to the project.
 This is a description of my project.
 
 <small>This text will have a smaller font size.</small>
+# My Project
+
+This is a description of my project.
+
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+<small>This text will have a smaller font size.</small>
+
+<span style="font-size: x-small;">This text will have an even smaller font size.</span>
+
 

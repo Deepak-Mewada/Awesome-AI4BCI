@@ -18,9 +18,8 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 <sub><em>*Authors* <br>
 journal & Year. </em></sub>
 
-**Paper Title** \
-*Authors*\
-journal & Year. [[Paper](https://www.)] 
+**2020 International brain–computer interface competition: A review** [[Paper](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)] <br>
+<sub>*Ji-Hoon Jeong et.al china; Frontiers of Human Neuroscience & 2022. <sub>
 
 ## FSL4BCI
 
@@ -31,7 +30,7 @@ journal & Year. [[Paper](https://www.)]
  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.</em><sub> 
 
 ### non MI-BCI
-**EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] 
+**EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] <br>
 <sub> *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* <br>
 Biomedical Physics & Engineering  28/11/2023. <sub>
 <details>
@@ -40,7 +39,7 @@ This is the hidden content that will be shown or hidden based on user interactio
 </details>
 
 
-**Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** [[Paper](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] 
+**Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** [[Paper](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] <br>
 <sub>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  <br>
 IEEE Transactions on Affective Computing & 21/11/2023. <sub>
 
@@ -48,15 +47,42 @@ IEEE Transactions on Affective Computing & 21/11/2023. <sub>
 
 ## Transformer4BCI
 
-## Inter- and Intra-subject variability in EEG-BCI
-**Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives** [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968845/pdf/fnins-17-1122661.pdf)] 
-<h6> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China<br>
-Frontiers in Neuroscience & 13/02/2023. </em></h6> 
+## Variability in EEG-BCI
+**Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives** [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968845/pdf/fnins-17-1122661.pdf)] <br>
+<sub> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China<br>
+Frontiers in Neuroscience & 13/02/2023. </em><sub> 
 
-**Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization** [[Paper]([https://www.](https://weilongzheng.github.io/publication/ma2019reducing/ma2019reducing.pdf))] 
-<h6> <em>Bo-Qun Ma1, He Li1, Wei-Long Zheng2, and Bao-Liang Lu1, China <br>
-Springer Nature & 2019. </em></h6> 
+**Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization** [[Paper](https://weilongzheng.github.io/publication/ma2019reducing/ma2019reducing.pdf)] <br>
+<sub> <em>Bo-Qun Ma1, He Li1, Wei-Long Zheng2, and Bao-Liang Lu1, China <br>
+Springer Nature & 2019. </em><sub> 
 
+**MITIGATING INTER-SUBJECT BRAIN SIGNAL VARIABILITY FOR EEG-BASED DRIVER FATIGUE STATE CLASSIFICATION** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414613&tag=1)] <br>
+<sub><em>Sunhee Hwang, Sungho Park, Dohyung Kim, Jewook Lee1 and Hyeran Byun <br>
+ICASSP & 2021 </em></sub>
+
+**EEG variability: Task-driven or subject-driven signal of interest?** [[Paper](https://www.sciencedirect.com/science/article/pii/S105381192200163X)] <br>
+<sub><em>Erin Gibson a, Nancy J. Lobaugh c d, Steve Joordens b, Anthony R. McIntosh,Univ of Totanto Canada; 
+Elsevier & 15 MAy 2022 </em></sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* <br>
+journal & Year. </em></sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* <br>
+journal & Year. </em></sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* <br>
+journal & Year. </em></sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* <br>
+journal & Year. </em></sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* <br>
+journal & Year. </em></sub>
 
 ----
 ---

@@ -45,3 +45,25 @@ IEEE Transactions on Affective Computing & 21/11/2023. [[Paper](https://www.comp
 ## MetaL4BCI
 
 ## Transformer4BCI
+
+# My Project
+
+This is a description of my project.
+
+<details>
+<summary>Click to expand</summary>
+
+## Installation
+
+Instructions for installing the project.
+
+## Usage
+
+Information on how to use the project.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+</details>
+

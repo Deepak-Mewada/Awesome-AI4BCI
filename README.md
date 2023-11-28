@@ -67,3 +67,10 @@ Guidelines for contributing to the project.
 
 </details>
 <span style="font-size: smaller;">This text will have a smaller font size.</span>
+
+# My Project
+
+This is a description of my project.
+
+<small>This text will have a smaller font size.</small>
+

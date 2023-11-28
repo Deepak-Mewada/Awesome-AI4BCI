@@ -18,6 +18,9 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 <sub><em>*Authors* </em>
 journal & Year. </sub>
 
+**International Winter Workshop on Brain-Computer Interface (BCI)** [[Paper](https://ieeexplore.ieee.org/xpl/conhome/10078410/proceeding?isnumber=10078447&sortType=vol-only-seq&pageNumber=1)] <br>
+<sub>IEEE Xplore & 2023. </sub>
+
 **2020 International brain–computer interface competition: A review** [[Paper](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)] <br>
 <sub><em>Ji-Hoon Jeong et.al china;</em> Frontiers of Human Neuroscience & 2022. <sub>
 
@@ -55,29 +58,44 @@ ICLR & MArch,2023. </sub>
 Department of Artificial Intelligence, Korea University, Seoul 02841, South Korea; </em>
 Expert Systems With Applications & 10/10/2023. </sub>
 
+**Does Meta-Learning Improve EEG Motor Imagery Classification?** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9871035)] <br>
+<sub><em>Xiaoli Wu, and Rosa H. M. Chan, Senior Member </em>
+EMBC & 2022. </sub>
+
 **Meta Learn on Constrained Transfer Learning for Low Resource Cross Subject EEG Classification** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296222)] <br>
-<sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1
-, MIHIR CHAUHAN1
-, JUN CHU1,3
-,
-ROHINI K. SRIHARI1
-, ARCHITA PATHAK1
+<sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1, MIHIR CHAUHAN1, JUN CHU1,ROHINI K. SRIHARI, ARCHITA PATHAK1
 , AND SARGUR N. SRIHARI* </em><br>
 IEEE Access & 16/12/2020. </sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
-journal & Year. </sub>
+**Ultra Efficient Transfer Learning with Meta Update for Continuous EEG Classification Across Subjects** [[Paper](https://caiac.pubpub.org/pub/7ajkzn1s/release/1)] <br>
+<sub><em>Tiehang Duan, Mihir Chauhan, Mohammad Abuzar Shaikh, Jun Chu, and Sargur N. Srihari </em>
+journal & 2018 </sub>
 
 ### MetaL4 non MI-EEG BCI
 
 **Calibration free meta learning based approach for subject independent EEG
-emotion recognition** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)]
+emotion recognition** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
 <sub>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  <sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
+<sub><em>*Authors* | </em>
 journal & Year. </sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* | </em>
+journal & Year. </sub>
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* | </em>
+journal & Year. </sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* | </em>
+journal & Year. </sub>
+### Domain Adaptation in EEG
+**Learning a robust unified domain adaptation framework for cross-subject EEG-based emotion recognition** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809423005712?ref=pdf_download&fr=RR-2&rr=82b7c405e93f8b0b)] <br>
+<sub><em>Magdiel Jiménez-Guarneros ∗
+, Gibran Fuentes-Pineda | </em>
+Biomedical Signal Processing and Control & 22/06/2023. </sub>
 
 ## Transformer4BCI
 
@@ -120,11 +138,19 @@ journal & Year. </sub>
 IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
+<sub><em>*Authors* | </em>
 journal & Year. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
+<sub><em>*Authors* | </em>
+journal & Year. </sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* | </em>
+journal & Year. </sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* | </em>
 journal & Year. </sub>
 
 ## Generalised Neural Decoder
@@ -133,6 +159,22 @@ journal & Year. </sub>
 , Rajesh P N Rao,and Bingni W Brunton | </em>
 journal of Neural Engineering & 2020. </sub>
 
+ ## DataSet
+**A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface** [[Paper](https://www.nature.com/articles/s41597-022-01647-1)] <br>
+<sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia 
+</em>
+Nature & 01/09/2022. </sub>
+
+**BCI Competition 2008 – Graz data set A** [[Link](https://www.bbci.de/competition/iv/desc_2a.pdf)] <br>
+<sub><em>C. Brunner, R. Leeb1, G. R. M¨uller-Putz1, A. Schl¨ogl, and G.Pfurtscheller | </em>
+journal & 2008. </sub>
+
+**Evaluation Criteria for BCI Research** [[Paper](https://ieeexplore.ieee.org/document/6281214?signout=success)] <br>
+<sub><em>MIT PRess |2007 </em></sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* | </em>
+journal & Year. </sub>
 
 
 # General AI papers
@@ -144,11 +186,26 @@ CVPR & Year. </sub>
 <sub><em>Chelsea Finn,Pieter Abbeel,Sergey Levine  </em>
 ICML & 08/2017. </sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
-journal & Year. </sub>
+**A concise review of recent few-shot meta-learning methods** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.neucom.2020.05.114&domain=pdf)] <br>
+<sub><em>Xiaoxu Li a,1
+, Zhuo Sun b,1
+, Jing-Hao Xue b,⇑
+, Zhanyu Ma c | </em>
+Neurocomputing & 28/10/2020. </sub>
+
+**Meta-learning approaches for learning-to-learn in deep learning: A survey** [[Paper]([https://www.](https://www.sciencedirect.com/science/article/pii/S0925231222004684?via%3Dihub))] <br>
+<sub><em>Yingjie Tian a,b,c,⇑
+, Xiaoxi Zhao a,b,c
+, Wei Huang  | </em>
+Neurocomputing & 21/04/2022. </sub>
 
 
+# Awesome Githubs
+- [MetaEEG](https://github.com/MAILAB-korea/META-EEG/tree/main)
+- 
+
+# Conferences
+- [DeepBCI](http://deepbci.korea.ac.kr/conference/)
 
 # Resources for Students
 - [Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) 

@@ -14,6 +14,9 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 # Papers
 
 ## Survey
+**Paper Title** [[Paper](https://www.)] 
+<h6> <em>*Authors* <br>
+journal & Year. </em></h6> 
 
 **Paper Title** \
 *Authors*\
@@ -23,24 +26,23 @@ journal & Year. [[Paper](https://www.)]
 
 ### MI-BCI
 
-**Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning** 
-<h6> *Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE* <\h6>
-<h6> IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023. <\h6> [[Paper](https://europepmc.org/article/med/37995161#full-text-links)] 
+**Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning** [[Paper](https://europepmc.org/article/med/37995161#full-text-links)] 
+<h6> <em>Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE*  <br>
+ IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.</em></h6> 
 
 ### non MI-BCI
-**EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** \
-<small>*Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* \
-Biomedical Physics & Engineering  28/11/2023.</small> [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)]
+**EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] 
+<h6> *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* <br>
+Biomedical Physics & Engineering  28/11/2023. </h6>
 <details>
 <summary>Main points of the Papers</summary>
-
 This is the hidden content that will be shown or hidden based on user interaction.
 </details>
 
 
-**Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** \
-*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  *\
-IEEE Transactions on Affective Computing & 21/11/2023. [[Paper](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] 
+**Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** [[Paper](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] 
+<h6>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  <br>
+IEEE Transactions on Affective Computing & 21/11/2023. </h6>
 
 ## MetaL4BCI
 

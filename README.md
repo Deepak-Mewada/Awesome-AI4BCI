@@ -12,7 +12,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 <style>
 h6 {
-margin-top: 0.5em;
+margin-top: 0;
 }
 </style>
 
@@ -140,4 +140,5 @@ This is a description of my project.
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+<p style="font-size: 1px;">This is a paragraph with a smaller font size.</p>
 

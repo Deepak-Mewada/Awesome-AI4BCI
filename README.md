@@ -48,6 +48,13 @@ IEEE Transactions on Affective Computing & 21/11/2023. </h6>
 
 ## Transformer4BCI
 
+## Inter- and Intra-subject variability in EEG-BCI
+**Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives** [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968845/pdf/fnins-17-1122661.pdf)] 
+<h6> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China<br>
+Frontiers in Neuroscience & 13/02/2023. </em></h6> 
+
+----
+---
 # My Project
 
 This is a description of my project.

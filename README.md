@@ -4,10 +4,10 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 ## Contents
 - [Papers](#papers)
   - [Survey](#survey)
-  - [Sequential Models](#sequential-models)
-  - [GNN Based models](#gnn-based-models)
+  - [Few-Shot Learning for BCIs](#FSL4BCI)
+  - [Meta-Leanring for BCI](#MetaL4BCI)
   - [Equivariant Networks](#equivariant-networks)
-  - [Transformer](#transformer)
+  - [Transformer for BCI](#transformer4BCI)
   - [Materials Generation](#materials-generation)
 
 
@@ -35,3 +35,7 @@ Biomedical Physics & Engineering  28/11/2023. [[Paper](https://iopscience.iop.or
 **Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** \
 *Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  *\
 IEEE Transactions on Affective Computing & 21/11/2023. [[Paper](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] 
+
+## MetaL4BCI
+
+## Transformer4BCI

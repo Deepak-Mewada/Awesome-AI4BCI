@@ -23,8 +23,8 @@ journal & Year. [[Paper](https://www.)]
 
 ### MI-BCI
 
-**Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning** \
-<h6> *Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao, Member, IEEE Junhua Li, Senior Member, IEEE and Wanzeng Kong, Senior Member, IEEE* <\h6>\ 
+**Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning** 
+<h6> *Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE* <\h6>
 <h6> IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023. <\h6> [[Paper](https://europepmc.org/article/med/37995161#full-text-links)] 
 
 ### non MI-BCI
@@ -102,8 +102,23 @@ This is a description of my project.
 <span style="font-size: 0.8em;">This text will have a font size of 80% of the parent element's font size.</span>
 
 <h6>hello</h6>
-<h7>hello</h7>
-<h8>hello</h8>
+<h5>hello</h7>
+<h4>hello</h8>
 
 <p style="font-size:1px;">This text will be smaller</p>
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 

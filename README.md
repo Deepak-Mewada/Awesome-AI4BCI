@@ -12,7 +12,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 <style>
 h6 {
-margin-top: 0;
+    margin-top: 0;
 }
 </style>
 

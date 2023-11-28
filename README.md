@@ -45,22 +45,52 @@ IEEE Transactions on Affective Computing & 21/11/2023. <sub>
 
 ## MetaLearning4BCI
 
+### MetaL for MI-BCI
 **Meta-Learning for Subject Adaptation in Low-Data Environments for EEG-Based Motor Imagery Brain-Computer Interfaces** [[Paper](https://openreview.net/pdf?id=7QqlQW9hJ8J)]
 <sub><em>Arnav Pati, Deepak Mewada, Debasis Samanta </em>
 ICLR & MArch,2023. </sub>
 
-
 **META-EEG: Meta-learning-based class-relevant EEG representation learning for zero-calibration brain–computer interfaces** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423024880?ef=pdf_download&fr=RR-2&rr=82d45a910f158a02)] <br>
-<sub><em>Ji-Wung Han1
-, Soyeon Bak1
-, Jun-Mo Kim, WooHyeok Choi, Dong-Hee Shin, Young-Han Son,
-Tae-Eui Kam ∗
+<sub><em>Ji-Wung Han1, Soyeon Bak, Jun-Mo Kim, WooHyeok Choi, Dong-Hee Shin, Young-Han Son,Tae-Eui Kam ∗
 Department of Artificial Intelligence, Korea University, Seoul 02841, South Korea; </em>
 Expert Systems With Applications & 10/10/2023. </sub>
 
+**Meta Learn on Constrained Transfer Learning for Low Resource Cross Subject EEG Classification** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296222)] <br>
+<sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1
+, MIHIR CHAUHAN1
+, JUN CHU1,3
+,
+ROHINI K. SRIHARI1
+, ARCHITA PATHAK1
+, AND SARGUR N. SRIHARI* </em><br>
+IEEE Access & 16/12/2020. </sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
+
+### MetaL4 non MI-EEG BCI
+
+**Calibration free meta learning based approach for subject independent EEG
+emotion recognition** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)]
+<sub>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  <sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
+
 ## Transformer4BCI
 
-## Variability in EEG-BCI
+
+## ExAI4BCI
+**Interpretable deep neural networks for single-trial EEG classification** [[Paper](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf)] <br>
+<sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c,∗∗
+a Machine Learning Group, Berlin </em>
+Journal of Neuroscience Methods & 16/10/2016. </sub>
+
+## Addressing Problems of BCI
+
+### Variability in EEG-BCI
 **Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives** [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968845/pdf/fnins-17-1122661.pdf)] <br>
 <sub> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China<br>
 Frontiers in Neuroscience & 13/02/2023. </em><sub> 
@@ -76,17 +106,18 @@ ICASSP & 2021 </em></sub>
 **EEG variability: Task-driven or subject-driven signal of interest?** [[Paper](https://www.sciencedirect.com/science/article/pii/S105381192200163X)] <br>
 <sub><em>Erin Gibson a, Nancy J. Lobaugh c d, Steve Joordens b, Anthony R. McIntosh,Univ of Totanto Canada;</em> Elsevier & 15 MAy 2022 </sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
+**Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC** [[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] <br>
 <sub><em>*Authors* </em>
-journal & Year. </sub>
+journal of Neural Engineering & 2019. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
 <sub><em>*Authors* </em>
 journal & Year. </sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
-journal & Year. </sub>
+### Zero-Claibration BCI
+**Switching EEG Headsets Made Easy: Reducing Offline Calibration Effort Using Active Weighted Adaptation Regularization** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7436820)] <br>
+<sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE </em><br>
+IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
 <sub><em>*Authors* </em>
@@ -109,12 +140,22 @@ journal of Neural Engineering & 2020. </sub>
 <sub><em>Qianru Sun1,3∗ Yaoyao Liu2∗ Tat-Seng Chua1 Bernt Schiele3</em>
 CVPR & Year. </sub>
 
+**Model-agnostic meta-learning for fast adaptation of deep networks** [[Paper](https://dl.acm.org/doi/10.5555/3305381.3305498)] <br>
+<sub><em>Chelsea Finn,Pieter Abbeel,Sergey Levine  </em>
+ICML & 08/2017. </sub>
+
+**Paper Title** [[Paper](https://www.)] <br>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
+
+
+
 # Resources for Students
-- [[Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) ]
-- [[Notes on writing Fredo Durand, MIT CSAIL](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)]
-- [[Write Good Papers Frédo Durand](https://people.csail.mit.edu/fredo/FredoGoodWriting.pdf)]
-- [[Resources for Students & Scholars by Frédo Durand; MIT ](https://people.csail.mit.edu/fredo/student.html)] 
--
+- [Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) 
+- [Notes on writing Fredo Durand, MIT CSAIL](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+- [Write Good Papers Frédo Durand](https://people.csail.mit.edu/fredo/FredoGoodWriting.pdf)
+- [Resources for Students & Scholars by Frédo Durand; MIT ](https://people.csail.mit.edu/fredo/student.html)
+- 
 
 ----
 ---

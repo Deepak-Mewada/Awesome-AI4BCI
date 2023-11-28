@@ -24,8 +24,8 @@ journal & Year. [[Paper](https://www.)]
 ### MI-BCI
 
 **Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning** \
-<h6> *Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao, Member, IEEE Junhua Li, Senior Member, IEEE and Wanzeng Kong, Senior Member, IEEE*\
-IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023<\h6>. [[Paper](https://europepmc.org/article/med/37995161#full-text-links)] 
+<h6> *Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao, Member, IEEE Junhua Li, Senior Member, IEEE and Wanzeng Kong, Senior Member, IEEE* <\h6>\ 
+<h6> IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023. <\h6> [[Paper](https://europepmc.org/article/med/37995161#full-text-links)] 
 
 ### non MI-BCI
 **EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** \

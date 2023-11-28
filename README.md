@@ -99,7 +99,7 @@ journal & Year. </sub>
 ## Generalised Neural Decoder
 **Generalized neural decoders for transfer learning across participants and recording modalities** [[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/pdf)] <br>
 <sub><em>Steven M Peterson1,2, Zoe Steine-Hanson3, Nathan Davis3
-, Rajesh P N Rao,and Bingni W Brunton </em>
+, Rajesh P N Rao,and Bingni W Brunton | </em>
 journal of Neural Engineering & 2020. </sub>
 
 
@@ -109,6 +109,12 @@ journal of Neural Engineering & 2020. </sub>
 <sub><em>Qianru Sun1,3∗ Yaoyao Liu2∗ Tat-Seng Chua1 Bernt Schiele3</em>
 CVPR & Year. </sub>
 
+# Resources for Students
+- [[Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) ]
+- [[Notes on writing Fredo Durand, MIT CSAIL](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)]
+- [[Write Good Papers Frédo Durand](https://people.csail.mit.edu/fredo/FredoGoodWriting.pdf)]
+- [[Resources for Students & Scholars by Frédo Durand; MIT ](https://people.csail.mit.edu/fredo/student.html)] 
+-
 
 ----
 ---

@@ -53,6 +53,11 @@ IEEE Transactions on Affective Computing & 21/11/2023. </h6>
 <h6> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China<br>
 Frontiers in Neuroscience & 13/02/2023. </em></h6> 
 
+**Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization** [[Paper]([https://www.](https://weilongzheng.github.io/publication/ma2019reducing/ma2019reducing.pdf))] 
+<h6> <em>Bo-Qun Ma1, He Li1, Wei-Long Zheng2, and Bao-Liang Lu1, China <br>
+Springer Nature & 2019. </em></h6> 
+
+
 ----
 ---
 # My Project

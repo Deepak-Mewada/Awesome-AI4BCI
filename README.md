@@ -31,6 +31,12 @@ IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.
 **EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** \
 *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* \
 Biomedical Physics & Engineering  28/11/2023. [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)]
+<details>
+<summary>Click to expand!</summary>
+
+This is the hidden content that will be shown or hidden based on user interaction.
+</details>
+
 
 **Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** \
 *Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  *\

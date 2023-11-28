@@ -15,11 +15,11 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 ## Survey
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* <br>
-journal & Year. </em></sub>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
 
 **2020 International brain–computer interface competition: A review** [[Paper](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)] <br>
-<sub>*Ji-Hoon Jeong et.al china; Frontiers of Human Neuroscience & 2022. <sub>
+<sub><em>Ji-Hoon Jeong et.al china;</em> Frontiers of Human Neuroscience & 2022. <sub>
 
 ## FSL4BCI
 
@@ -43,7 +43,20 @@ This is the hidden content that will be shown or hidden based on user interactio
 <sub>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  <br>
 IEEE Transactions on Affective Computing & 21/11/2023. <sub>
 
-## MetaL4BCI
+## MetaLearning4BCI
+
+**Meta-Learning for Subject Adaptation in Low-Data Environments for EEG-Based Motor Imagery Brain-Computer Interfaces** [[Paper](https://openreview.net/pdf?id=7QqlQW9hJ8J)]
+<sub><em>Arnav Pati, Deepak Mewada, Debasis Samanta </em>
+ICLR & MArch,2023. </sub>
+
+
+**META-EEG: Meta-learning-based class-relevant EEG representation learning for zero-calibration brain–computer interfaces** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423024880?ef=pdf_download&fr=RR-2&rr=82d45a910f158a02)] <br>
+<sub><em>Ji-Wung Han1
+, Soyeon Bak1
+, Jun-Mo Kim, WooHyeok Choi, Dong-Hee Shin, Young-Han Son,
+Tae-Eui Kam ∗
+Department of Artificial Intelligence, Korea University, Seoul 02841, South Korea; </em>
+Expert Systems With Applications & 10/10/2023. </sub>
 
 ## Transformer4BCI
 
@@ -61,28 +74,41 @@ Springer Nature & 2019. </em><sub>
 ICASSP & 2021 </em></sub>
 
 **EEG variability: Task-driven or subject-driven signal of interest?** [[Paper](https://www.sciencedirect.com/science/article/pii/S105381192200163X)] <br>
-<sub><em>Erin Gibson a, Nancy J. Lobaugh c d, Steve Joordens b, Anthony R. McIntosh,Univ of Totanto Canada; 
-Elsevier & 15 MAy 2022 </em></sub>
+<sub><em>Erin Gibson a, Nancy J. Lobaugh c d, Steve Joordens b, Anthony R. McIntosh,Univ of Totanto Canada;</em> Elsevier & 15 MAy 2022 </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* <br>
-journal & Year. </em></sub>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* <br>
-journal & Year. </em></sub>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* <br>
-journal & Year. </em></sub>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* <br>
-journal & Year. </em></sub>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
 
 **Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* <br>
-journal & Year. </em></sub>
+<sub><em>*Authors* </em>
+journal & Year. </sub>
+
+## Generalised Neural Decoder
+**Generalized neural decoders for transfer learning across participants and recording modalities** [[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/pdf)] <br>
+<sub><em>Steven M Peterson1,2, Zoe Steine-Hanson3, Nathan Davis3
+, Rajesh P N Rao,and Bingni W Brunton </em>
+journal of Neural Engineering & 2020. </sub>
+
+
+
+# General AI papers
+**Meta-Transfer Learning for Few-Shot Learning** [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] <br>
+<sub><em>Qianru Sun1,3∗ Yaoyao Liu2∗ Tat-Seng Chua1 Bernt Schiele3</em>
+CVPR & Year. </sub>
+
 
 ----
 ---

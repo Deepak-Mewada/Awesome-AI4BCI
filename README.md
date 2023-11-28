@@ -56,7 +56,7 @@ Frontiers in Neuroscience & 13/02/2023. </em><sub>
 <sub> <em>Bo-Qun Ma1, He Li1, Wei-Long Zheng2, and Bao-Liang Lu1, China <br>
 Springer Nature & 2019. </em><sub> 
 
-**MITIGATING INTER-SUBJECT BRAIN SIGNAL VARIABILITY FOR EEG-BASED DRIVER FATIGUE STATE CLASSIFICATION** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414613&tag=1)] <br>
+**MITIGATING INTER-SUBJECT BRAIN SIGNAL VARIABILITY FOR EEG-BASED DRIVER FATIGUE STATE CLASSIFICATION** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414613&tag=1)] <br> 
 <sub><em>Sunhee Hwang, Sungho Park, Dohyung Kim, Jewook Lee1 and Hyeran Byun <br>
 ICASSP & 2021 </em></sub>
 

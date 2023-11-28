@@ -87,5 +87,5 @@ This is a description of my project.
 
 <span style="font-size: x-small;">This text will have an even smaller font size.</span>
 
-<span style="font-size: 0.5em;">This text will have a font size of 80% of the parent element's font size.</span>
+<span style="font-size: 0.1em;">This text will have a font size of 80% of the parent element's font size.</span>
 

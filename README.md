@@ -32,7 +32,7 @@ IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.
 <small>*Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* \
 Biomedical Physics & Engineering  28/11/2023.</small> [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)]
 <details>
-<summary>Click to expand!</summary>
+<summary>Main points of the Papers</summary>
 
 This is the hidden content that will be shown or hidden based on user interaction.
 </details>
@@ -52,7 +52,11 @@ This is a description of my project.
 
 <details>
 <summary>Click to expand</summary>
+<details>
+<summary>Click to expand!</summary>
 
+This is the hidden content that will be shown or hidden based on user interaction.
+</details>
 ## Installation
 
 Instructions for installing the project.

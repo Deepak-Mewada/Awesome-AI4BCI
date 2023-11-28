@@ -10,7 +10,9 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
   - [Transformer for BCI](#transformer4BCI)
   - [Materials Generation](#materials-generation)
 
-
+h6 {
+  margin-top: 0;
+}
 # Papers
 
 ## Survey

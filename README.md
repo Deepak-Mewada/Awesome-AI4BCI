@@ -98,6 +98,8 @@ journal & Year. </sub>
 Biomedical Signal Processing and Control & 22/06/2023. </sub>
 
 ## Transformer4BCI
+https://ieeexplore.ieee.org/document/10266354
+
 
 
 ## ExAI4BCI
@@ -105,6 +107,9 @@ Biomedical Signal Processing and Control & 22/06/2023. </sub>
 <sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c,∗∗
 a Machine Learning Group, Berlin </em>
 Journal of Neuroscience Methods & 16/10/2016. </sub>
+
+
+
 
 ## Addressing Problems of BCI
 
@@ -127,6 +132,10 @@ ICASSP & 2021 </em></sub>
 **Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC** [[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] <br>
 <sub><em>*Authors* </em>
 journal of Neural Engineering & 2019. </sub>
+
+
+https://ieeexplore.ieee.org/document/10266354
+
 
 **Paper Title** [[Paper](https://www.)] <br>
 <sub><em>*Authors* </em>
@@ -202,7 +211,7 @@ Neurocomputing & 21/04/2022. </sub>
 
 # Awesome Githubs
 - [MetaEEG](https://github.com/MAILAB-korea/META-EEG/tree/main)
-- 
+- [](https://github.com/berdakh?page=2&tab=repositories)
 
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)

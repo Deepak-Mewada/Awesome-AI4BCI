@@ -71,6 +71,10 @@ IEEE Access & 16/12/2020. </sub>
 <sub><em>Tiehang Duan, Mihir Chauhan, Mohammad Abuzar Shaikh, Jun Chu, and Sargur N. Srihari </em>
 journal & 2018 </sub>
 
+- [Meta-Learning for Fast and Privacy-Preserving Source Knowledge Transfer of EEG-Based BCIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9942685&tag=1)
+- [Privacy-Preserving Domain Adaptation for Motor Imagery-Based Brain-Computer Interfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9760113)
+- [On the Vulnerability of CNN Classifiers in EEG-Based BCIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8680043)
+
 ### MetaL4 non MI-EEG BCI
 
 **Calibration free meta learning based approach for subject independent EEG

@@ -9,6 +9,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
   - [Equivariant Networks](#equivariant-networks)
   - [Transformer for BCI](#transformer4BCI)
   - [Materials Generation](#materials-generation)
+  - [Awesome Githubs](#Awesome-Githubs)
 
 
 # Papers
@@ -81,20 +82,7 @@ journal & 2018 </sub>
 emotion recognition** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
 <sub>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  <sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
-
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
 ### Domain Adaptation in EEG
 **Learning a robust unified domain adaptation framework for cross-subject EEG-based emotion recognition** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809423005712?ref=pdf_download&fr=RR-2&rr=82b7c405e93f8b0b)] <br>
 <sub><em>Magdiel Jiménez-Guarneros ∗
@@ -150,21 +138,7 @@ journal & Year. </sub>
 <sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE </em><br>
 IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
-
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
-
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
 
 ## Generalised Neural Decoder
 **Generalized neural decoders for transfer learning across participants and recording modalities** [[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/pdf)] <br>
@@ -231,80 +205,4 @@ Neurocomputing & 21/04/2022. </sub>
 
 ----
 ---
-# My Project
-
-This is a description of my project.
-
-<details>
-<summary>Click to expand</summary>
-<details>
-<summary>Click to expand!</summary>
-
-This is the hidden content that will be shown or hidden based on user interaction.
-</details>
-## Installation
-
-Instructions for installing the project.
-
-## Usage
-
-Information on how to use the project.
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-</details>
-<span style="font-size: smaller;">This text will have a smaller font size.</span>
-
-# My Project
-
-This is a description of my project.
-
-<small>This text will have a smaller font size.</small>
-# My Project
-
-This is a description of my project.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-<small>This text will have a smaller font size.</small>
-
-<span style="font-size: x-small;">This text will have an even smaller font size.</span>
-
-<span style="font-size: 0.1em;">This text will have a font size of 80% of the parent element's font size.</span>
-
-# My Project
-
-This is a description of my project.
-
-<span style="font-size: 12px;">This text will have a font size of 12 pixels.</span>
-
-<span style="font-size: 0.8em;">This text will have a font size of 80% of the parent element's font size.</span>
-
-<h6>hello</h6>
-<h5>hello</h7>
-<h4>hello</h8>
-
-<p style="font-size:1px;">This text will be smaller</p>
-
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-<p style="font-size: 1px;">This is a paragraph with a smaller font size.</p>
 

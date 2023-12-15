@@ -215,7 +215,7 @@ Neurocomputing & 21/04/2022. </sub>
 
 # Awesome Githubs
 - [MetaEEG](https://github.com/MAILAB-korea/META-EEG/tree/main)
-- [](https://github.com/berdakh?page=2&tab=repositories)
+- [berdakh](https://github.com/berdakh?page=2&tab=repositories)
 - [Transfer Learning Algorithms for EEG-based BCI](https://github.com/sylyoung/DeepTransferEEG?tab=readme-ov-file#transfer-learning-algorithms-for-eeg-based-bci)
 - [Motor Imagery Tutrial](https://github.com/sylyoung) 
 

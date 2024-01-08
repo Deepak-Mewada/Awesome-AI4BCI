@@ -10,6 +10,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
   - [Transformer for BCI](#transformer4BCI)
   - [Materials Generation](#materials-generation)
   - [Awesome Githubs](#Awesome-Githubs)
+  - [Resources-for-Students](#Resources-for-Students)
 
 
 # Papers
@@ -187,7 +188,7 @@ Neurocomputing & 28/10/2020. </sub>
 Neurocomputing & 21/04/2022. </sub>
 
 
-# Awesome Githubs
+# Awesome-Githubs
 - [MetaEEG](https://github.com/MAILAB-korea/META-EEG/tree/main)
 - [berdakh](https://github.com/berdakh?page=2&tab=repositories)
 - [Transfer Learning Algorithms for EEG-based BCI](https://github.com/sylyoung/DeepTransferEEG?tab=readme-ov-file#transfer-learning-algorithms-for-eeg-based-bci)
@@ -196,7 +197,7 @@ Neurocomputing & 21/04/2022. </sub>
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)
 
-# Resources for Students
+# Resources-for-Students
 - [Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) 
 - [Notes on writing Fredo Durand, MIT CSAIL](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
 - [Write Good Papers Frédo Durand](https://people.csail.mit.edu/fredo/FredoGoodWriting.pdf)

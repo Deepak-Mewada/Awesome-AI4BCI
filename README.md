@@ -212,6 +212,8 @@ Neurocomputing & 21/04/2022. </sub>
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)
 
+# Books 
+- [NEUROSCIENCE EXPLORING THE BRAIN](https://www.booksfree.org/wp-content/uploads/2022/04/Neuroscience-Exploring-the-Brain-by-Mark-F-Barry-W-Michael-A-booksfree.org_.pdf) - has good brief EEG details
 # Resources-for-Students
 - [Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) 
 - [Notes on writing Fredo Durand, MIT CSAIL](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)

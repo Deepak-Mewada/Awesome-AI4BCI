@@ -34,6 +34,11 @@ journal & Year. </sub>
 <sub> <em>Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE*  <br>
  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.</em><sub> 
 
+- [A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals (https://www.worldscientific.com/doi/pdf/10.1142/S0129065723500685?download=true)
+- [Decoding Multi-Brain Motor Imagery From EEG Using Coupling Feature Extraction and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10328637)
+- [Meta-Optimization of Initial Weights for More Effective Few- and Zero-Shot Learning in BCI Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329624)
+
+
 ### non MI-BCI
 **EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] <br>
 <sub> *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* <br>
@@ -76,13 +81,17 @@ journal & 2018 </sub>
 - [Meta-Learning for Fast and Privacy-Preserving Source Knowledge Transfer of EEG-Based BCIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9942685&tag=1)
 - [Privacy-Preserving Domain Adaptation for Motor Imagery-Based Brain-Computer Interfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9760113)
 - [On the Vulnerability of CNN Classifiers in EEG-Based BCIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8680043)
+- [Subject-independent meta-learning framework towards optimal training of EEG-based classifiers](https://www.sciencedirect.com/science/article/pii/S0893608024000224)
+- [Model Agnostic Meta Learning for EEG Classification: Multitask Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10150186)
 
+- 
 ### MetaL4 non MI-EEG BCI
 
 **Calibration free meta learning based approach for subject independent EEG
 emotion recognition** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
 <sub>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  <sub>
 
+- [MetaEmotionNet: Spatial–Spectral–Temporal-Based Attention 3-D Dense Network With Meta-Learning for EEG Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342627)
 
 ### Domain Adaptation in EEG
 **Learning a robust unified domain adaptation framework for cross-subject EEG-based emotion recognition** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809423005712?ref=pdf_download&fr=RR-2&rr=82b7c405e93f8b0b)] <br>
@@ -187,6 +196,8 @@ Neurocomputing & 28/10/2020. </sub>
 , Wei Huang  | </em>
 Neurocomputing & 21/04/2022. </sub>
 
+# Thesis
+-  [FEW-SHOT CLASSIFICATION OF EEG WITH QUASI-INDUCTIVE TRANSFER LEARNING](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9104237&fileOId=9104238) | Bachelor thesis
 
 # Awesome-Githubs
 - [MetaEEG](https://github.com/MAILAB-korea/META-EEG/tree/main)

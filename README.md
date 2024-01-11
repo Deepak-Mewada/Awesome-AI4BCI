@@ -48,8 +48,9 @@ Biomedical Physics & Engineering  28/11/2023. <sub>
 This is the hidden content that will be shown or hidden based on user interaction.
 </details>
 
-- [A prototypical network for few-shot recognition of speech imagery data] https://www.sciencedirect.com/science/article/pii/S1746809423005876)
-- [Prediction of Preoperative Scale Score of Dystonia Based on Few-Shot Learning] (https://www.bio-conferences.org/articles/bioconf/pdf/2023/06/bioconf_fbse2023_01014.pdf)
+
+- [A prototypical network for few-shot recognition of speech imagery data](https://www.sciencedirect.com/science/article/pii/S1746809423005876)
+- [Prediction of Preoperative Scale Score of Dystonia Based on Few-Shot Learning](https://www.bio-conferences.org/articles/bioconf/pdf/2023/06/bioconf_fbse2023_01014.pdf)
 
 
 **Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** [[Paper](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] <br>

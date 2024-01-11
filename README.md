@@ -160,6 +160,10 @@ IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </s
 , Rajesh P N Rao,and Bingni W Brunton | </em>
 journal of Neural Engineering & 2020. </sub>
 
+#  BCI in top AI conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ICCV, CVPR, TMLR, JMLR, TACL, AAAI) 
+- NeurIPS | [CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion](https://arxiv.org/pdf/2311.07788.pdf)
+
+
  ## DataSet
 **A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface** [[Paper](https://www.nature.com/articles/s41597-022-01647-1)] <br>
 <sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia 

@@ -231,6 +231,23 @@ Neurocomputing & 21/04/2022. </sub>
 - [Resources for Students & Scholars by Frédo Durand; MIT ](https://people.csail.mit.edu/fredo/student.html)
 - 
 
+----------------------------
+so the next section is my brainstorming place for futur eof BCI -
+This is in idation phase and you find it intersting or have something to share then I would love to hear you- please mail me at deepakmewada96@kgpain.iitkgp.ac.in
+
+# Ai4BCI - An Open AI tool box to bring BCI out of the lab 
+Goal - bridge the gap and develope resources which are more accessible.
+We are planning to start this initiative with an aim to make BCI an evryday technology just like AI has made Computer vision, NLP and Speech processing a tech of evryone. Every hand has these tech but BCI came before all of these but it is still in lab. Why? 
+
+#### but Why?
+- if not now then when? ;)
+- lot of companies are really focusing on finding people now who are in this field but there isn't really acommunity that foster them really well
+- there is no set major for this field
+- BCI, a really cool area but really underdeveloped despite of all the hype
+- having had a bit of experience lookoing at these larger companies and seeing the direction they're heading at the end of the day what the intention for all of this would be to develope the kind of systems or develop  more approachable ways to understand BCI as a whole if it's going to become a technology that is widely used in the future. it seems that it is going toi be one of the technologies that will be likely used in our generations- it's important that we grasp basic understanding of how to build smaller project , tutorial, curriculam, communities around technology that will be impactful. 
+
+
+
 ----
 ---
 

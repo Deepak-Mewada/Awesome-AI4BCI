@@ -218,6 +218,12 @@ Neurocomputing & 21/04/2022. </sub>
 
 # Books 
 - [NEUROSCIENCE EXPLORING THE BRAIN](https://www.booksfree.org/wp-content/uploads/2022/04/Neuroscience-Exploring-the-Brain-by-Mark-F-Barry-W-Michael-A-booksfree.org_.pdf) - has good brief EEG details
+
+# BCi Starter Leanring Courses
+- [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
+- 
+
+
 # Resources-for-Students
 - [Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) 
 - [Notes on writing Fredo Durand, MIT CSAIL](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)

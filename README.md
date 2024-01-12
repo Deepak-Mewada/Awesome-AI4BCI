@@ -211,7 +211,8 @@ Neurocomputing & 21/04/2022. </sub>
 - [MetaEEG](https://github.com/MAILAB-korea/META-EEG/tree/main)
 - [berdakh](https://github.com/berdakh?page=2&tab=repositories)
 - [Transfer Learning Algorithms for EEG-based BCI](https://github.com/sylyoung/DeepTransferEEG?tab=readme-ov-file#transfer-learning-algorithms-for-eeg-based-bci)
-- [Motor Imagery Tutrial](https://github.com/sylyoung) 
+- [Motor Imagery Tutrial](https://github.com/sylyoung)
+- [EEG Project Example: EEG Face Detection](https://github.com/NeuroTech-UCSD/EEGFaceDetection)
 
 # Awesome YouTube Playlists
 - [Design BCI project - Hardware, Software , Analyssi and ML](https://www.youtube.com/watch?v=6offaon0rR4&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=1)

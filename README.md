@@ -219,8 +219,7 @@ Neurocomputing & 21/04/2022. </sub>
 
 
 
-- [
-Key packages for Signal Processing](notion)
+- [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)
 
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)

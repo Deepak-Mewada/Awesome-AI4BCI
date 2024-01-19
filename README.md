@@ -40,7 +40,9 @@ journal & Year. </sub>
 
 - [Zero-Shot Learning for EEG Classification in Motor Imagery-Based BCI System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207741)
 - [Cross-Subject EEG Emotion Recognition Using Domain Adaptive Few-Shot Learning Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669542&tag=1)
-- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669542&tag=1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328637&tag=1)
+- [Decoding Multi-Brain Motor Imagery From EEG
+Using Coupling Feature Extraction
+and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328637&tag=1)
 - 
 
 

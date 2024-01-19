@@ -238,7 +238,7 @@ Metaleanring in other similar domain
 # Books 
 - [NEUROSCIENCE EXPLORING THE BRAIN](https://www.booksfree.org/wp-content/uploads/2022/04/Neuroscience-Exploring-the-Brain-by-Mark-F-Barry-W-Michael-A-booksfree.org_.pdf) - has good brief EEG details
 
-# BCi Starter Leanring Courses
+# BCi Starter Learning Courses
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
 - 
 
@@ -249,7 +249,8 @@ Metaleanring in other similar domain
 - [Write Good Papers Frédo Durand](https://people.csail.mit.edu/fredo/FredoGoodWriting.pdf)
 - [Resources for Students & Scholars by Frédo Durand; MIT ](https://people.csail.mit.edu/fredo/student.html)
 - 
-
+# Awesome-Visualization of plots
+- [Data-to-viz](https://www.data-to-viz.com/)
 ----------------------------
 so the next section is my brainstorming place for futur eof BCI -
 This is in idation phase and you find it intersting or have something to share then I would love to hear you- please mail me at deepakmewada96@kgpain.iitkgp.ac.in

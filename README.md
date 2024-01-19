@@ -33,8 +33,7 @@ journal & Year. </sub>
 - [Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning] (https://europepmc.org/article/med/37995161#full-text-links)] <br>
 <sub> <em>Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE*  <br>
  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.</em><sub> 
-
-- [A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals (https://www.worldscientific.com/doi/pdf/10.1142/S0129065723500685?download=true)
+- [A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals](https://www.worldscientific.com/doi/pdf/10.1142/S0129065723500685?download=true)
 - [Decoding Multi-Brain Motor Imagery From EEG Using Coupling Feature Extraction and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10328637)
 - [Meta-Optimization of Initial Weights for More Effective Few- and Zero-Shot Learning in BCI Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329624)
 

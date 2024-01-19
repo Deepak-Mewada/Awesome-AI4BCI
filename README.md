@@ -38,6 +38,11 @@ journal & Year. </sub>
 - [Decoding Multi-Brain Motor Imagery From EEG Using Coupling Feature Extraction and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10328637)
 - [Meta-Optimization of Initial Weights for More Effective Few- and Zero-Shot Learning in BCI Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329624)
 
+- [Zero-Shot Learning for EEG Classification in Motor Imagery-Based BCI System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207741)
+- [Cross-Subject EEG Emotion Recognition Using Domain Adaptive Few-Shot Learning Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669542&tag=1)
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669542&tag=1](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328637&tag=1)
+- 
+
 
 ### non MI-BCI
 **EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] <br>
@@ -109,11 +114,13 @@ https://ieeexplore.ieee.org/document/10266354
 
 
 ## ExAI4BCI
-**Interpretable deep neural networks for single-trial EEG classification** [[Paper](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf)] <br>
+[Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf)] <br>
 <sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c,∗∗
 a Machine Learning Group, Berlin </em>
 Journal of Neuroscience Methods & 16/10/2016. </sub>
 
+- [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) -  introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation](https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]
+-  
 
 
 

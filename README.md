@@ -212,7 +212,7 @@ Neurocomputing & 28/10/2020. </sub>
 , Wei Huang  | </em>
 Neurocomputing & 21/04/2022. </sub>
 
-* Metaleanring in other similar domain
+Metaleanring in other similar domain
 - [Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification](file:///C:/Users/dell/Downloads/Few_Is_Enough_Task-Augmented_Active_Meta-Learning_.pdf)
 
 # Thesis

@@ -170,6 +170,7 @@ Metaleanring in other similar domain
 - [Machine learning on electrophysiology MEG/EEG signals
 Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tuto/tree/main) - Agrahmfort and Hubert Banville
 - [EEGModels project: A Collection of Convolutional Neural Network (CNN)](https://github.com/vlawhern/arl-eegmodels)
+- [SSVEP pipeline UCSD Challange](https://github.com/YundongWang/BCI_Challenge)
 
 
 - [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)

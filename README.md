@@ -86,11 +86,11 @@ emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.20
 - [paper](https://ieeexplore.ieee.org/document/10266354)
 
 ## ExAI4BCI
-[Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf) <br>
+- [Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf) <br>
 <sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c, a Machine Learning Group, Berlin - Journal of Neuroscience Methods & 16/10/2016. </em></sub>
 
 - [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) - <br>
- </em> introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation] (https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]</em>
+ <sub></em> introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation] (https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]</em></sub>
 
 
 ## Addressing Problems of BCI

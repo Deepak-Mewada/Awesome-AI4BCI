@@ -187,7 +187,7 @@ Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tu
 -  [Deep Learning for EEGs and BCI : (How I Managed to get 94% score model](https://peijin.medium.com/deep-learning-for-eegs-nad-bci-some-notes-and-some-warnings-28cfc3015a98)
 -  [Deep Learning for EEGs and BCI : (How I Managed to get 94% score model.)](https://peijin.medium.com/deep-learning-for-eegs-nad-bci-some-notes-and-some-warnings-28cfc3015a98)
 
-    ### Kaggle Compitition on EEG
+  ### Kaggle Compitition on EEG
    - [Grasp-and-Lift EEG Detection Identify hand motions from EEG recordings](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/leaderboard?)
    - 
 

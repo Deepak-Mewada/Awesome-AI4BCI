@@ -251,9 +251,11 @@ Metaleanring in other similar domain
 
 # BCi Starter Learning Courses or Tutotials
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
+- [Getting Started with BCI Projects Series](https://www.youtube.com/watch?v=AjMdirPPnQQ&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=5)
+- [EEG ML/DL Youtube full coding only Playlist](https://www.youtube.com/watch?v=oMhKIsmRsps&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z&index=14)(has a lot of code)
 - [PyTorch for Brain-Computer Interfaces](https://www.youtube.com/watch?v=M_1buqiRLEo&t=402s)
 - [Intro to Brain-Computer Interfaces (Winter 2023)](https://www.youtube.com/watch?v=td9Z4R-t1ow&list=PLwv-bM-hDe9eQ6eeZluQ2oJFPt_yvzz1g&index=5)
-- 
+- [Tutorial on ML and EEG/MEG by Alexander grahmfort](https://www.youtube.com/watch?v=ePrxz7wRp1g&list=PLbQ17oTKprF0dzInRA0L8yRNOGIKo6OwU&index=6&t=8771s)
 
 
 # Resources-for-Students

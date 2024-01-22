@@ -249,8 +249,10 @@ Metaleanring in other similar domain
 # Books 
 - [NEUROSCIENCE EXPLORING THE BRAIN](https://www.booksfree.org/wp-content/uploads/2022/04/Neuroscience-Exploring-the-Brain-by-Mark-F-Barry-W-Michael-A-booksfree.org_.pdf) - has good brief EEG details
 
-# BCi Starter Learning Courses
+# BCi Starter Learning Courses or Tutotials
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
+- [PyTorch for Brain-Computer Interfaces](https://www.youtube.com/watch?v=M_1buqiRLEo&t=402s)
+- [Intro to Brain-Computer Interfaces (Winter 2023)](https://www.youtube.com/watch?v=td9Z4R-t1ow&list=PLwv-bM-hDe9eQ6eeZluQ2oJFPt_yvzz1g&index=5)
 - 
 
 

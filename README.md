@@ -169,6 +169,7 @@ Metaleanring in other similar domain
 - [EEG Project Example: EEG Face Detection](https://github.com/NeuroTech-UCSD/EEGFaceDetection)
 - [Machine learning on electrophysiology MEG/EEG signals
 Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tuto/tree/main) - Agrahmfort and Hubert Banville
+- [EEGModels project: A Collection of Convolutional Neural Network (CNN)](https://github.com/vlawhern/arl-eegmodels)
 
 
 - [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)
@@ -183,7 +184,11 @@ Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tu
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
 -  [brain Encoding Decoding Conferences](https://main-educational.github.io/material.html#brain-decoding)
 -  [Deep Learning for EEGs and BCI : (How I Managed to get 94% score model](https://peijin.medium.com/deep-learning-for-eegs-nad-bci-some-notes-and-some-warnings-28cfc3015a98)
--  
+-  [Deep Learning for EEGs and BCI : (How I Managed to get 94% score model.)](https://peijin.medium.com/deep-learning-for-eegs-nad-bci-some-notes-and-some-warnings-28cfc3015a98)
+
+    ### Kaggle Compitition on EEG
+   - [Grasp-and-Lift EEG Detection Identify hand motions from EEG recordings](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/leaderboard?)
+   - 
 
 # Awesome YouTube Playlists
 - [Design BCI project - Hardware, Software , Analyssi and ML](https://www.youtube.com/watch?v=6offaon0rR4&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=1)
@@ -192,6 +197,7 @@ Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tu
 - [PyTorch for Brain-Computer Interfaces](https://www.youtube.com/watch?v=M_1buqiRLEo&t=402s)
 - [Intro to Brain-Computer Interfaces (Winter 2023)](https://www.youtube.com/watch?v=td9Z4R-t1ow&list=PLwv-bM-hDe9eQ6eeZluQ2oJFPt_yvzz1g&index=5)
 - [Tutorial on ML and EEG/MEG by Alexander grahmfort](https://www.youtube.com/watch?v=ePrxz7wRp1g&list=PLbQ17oTKprF0dzInRA0L8yRNOGIKo6OwU&index=6&t=8771s)
+- 
 
 
 # Resources-for-newbie_ResearchStudents

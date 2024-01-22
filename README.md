@@ -66,25 +66,23 @@ IEEE Transactions on Affective Computing & 21/11/2023. <sub>
 ## MetaLearning4BCI
 
 ### MetaL for MI-BCI
-**Meta-Learning for Subject Adaptation in Low-Data Environments for EEG-Based Motor Imagery Brain-Computer Interfaces** [[Paper](https://openreview.net/pdf?id=7QqlQW9hJ8J)]
-<sub><em>Arnav Pati, Deepak Mewada, Debasis Samanta </em>
-ICLR & MArch,2023. </sub>
 
-**META-EEG: Meta-learning-based class-relevant EEG representation learning for zero-calibration brain–computer interfaces** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423024880?ef=pdf_download&fr=RR-2&rr=82d45a910f158a02)] <br>
+
+- [META-EEG: Meta-learning-based class-relevant EEG representation learning for zero-calibration brain–computer interfaces](https://www.sciencedirect.com/science/article/pii/S0957417423024880?ef=pdf_download&fr=RR-2&rr=82d45a910f158a02)] <br>
 <sub><em>Ji-Wung Han1, Soyeon Bak, Jun-Mo Kim, WooHyeok Choi, Dong-Hee Shin, Young-Han Son,Tae-Eui Kam ∗
 Department of Artificial Intelligence, Korea University, Seoul 02841, South Korea; </em>
 Expert Systems With Applications & 10/10/2023. </sub>
 
-**Does Meta-Learning Improve EEG Motor Imagery Classification?** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9871035)] <br>
+- [Does Meta-Learning Improve EEG Motor Imagery Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9871035) <br>
 <sub><em>Xiaoli Wu, and Rosa H. M. Chan, Senior Member </em>
 EMBC & 2022. </sub>
 
-**Meta Learn on Constrained Transfer Learning for Low Resource Cross Subject EEG Classification** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296222)] <br>
+- [Meta Learn on Constrained Transfer Learning for Low Resource Cross Subject EEG Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296222) <br>
 <sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1, MIHIR CHAUHAN1, JUN CHU1,ROHINI K. SRIHARI, ARCHITA PATHAK1
 , AND SARGUR N. SRIHARI* </em><br>
 IEEE Access & 16/12/2020. </sub>
 
-**Ultra Efficient Transfer Learning with Meta Update for Continuous EEG Classification Across Subjects** [[Paper](https://caiac.pubpub.org/pub/7ajkzn1s/release/1)] <br>
+- [Ultra Efficient Transfer Learning with Meta Update for Continuous EEG Classification Across Subjects*](https://caiac.pubpub.org/pub/7ajkzn1s/release/1) <br>
 <sub><em>Tiehang Duan, Mihir Chauhan, Mohammad Abuzar Shaikh, Jun Chu, and Sargur N. Srihari </em>
 journal & 2018 </sub>
 

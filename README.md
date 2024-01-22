@@ -164,6 +164,8 @@ Metaleanring in other similar domain
 - [Transfer Learning Algorithms for EEG-based BCI](https://github.com/sylyoung/DeepTransferEEG?tab=readme-ov-file#transfer-learning-algorithms-for-eeg-based-bci)
 - [Motor Imagery Tutrial](https://github.com/sylyoung)
 - [EEG Project Example: EEG Face Detection](https://github.com/NeuroTech-UCSD/EEGFaceDetection)
+- [Machine learning on electrophysiology MEG/EEG signals
+Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tuto/tree/main) - Agrahmfort and Hubert Banville
 
 
 - [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)
@@ -176,6 +178,7 @@ Metaleanring in other similar domain
 
 # BCi Starter Learning Courses or Tutotials
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
+  [brain Encoding Decoding Conferences](https://main-educational.github.io/material.html#brain-decoding)
 
 # Awesome YouTube Playlists
 - [Design BCI project - Hardware, Software , Analyssi and ML](https://www.youtube.com/watch?v=6offaon0rR4&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=1)
@@ -186,7 +189,7 @@ Metaleanring in other similar domain
 - [Tutorial on ML and EEG/MEG by Alexander grahmfort](https://www.youtube.com/watch?v=ePrxz7wRp1g&list=PLbQ17oTKprF0dzInRA0L8yRNOGIKo6OwU&index=6&t=8771s)
 
 
-# Resources-for-Students
+# Resources-for-newbie_ResearchStudents
 - [Research and Writing Tips from SJN University](https://vision.sjtu.edu.cn/writing.html) 
 - [Notes on writing Fredo Durand, MIT CSAIL](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
 - [Write Good Papers Frédo Durand](https://people.csail.mit.edu/fredo/FredoGoodWriting.pdf)

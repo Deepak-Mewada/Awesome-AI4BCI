@@ -143,7 +143,7 @@ journal & 2008. </sub>
 <sub><em>Qianru Sun1,3∗ Yaoyao Liu2∗ Tat-Seng Chua1 Bernt Schiele3</em>
 CVPR & Year. </sub>
 
-- [Model-agnostic meta-learning for fast adaptation of deep networks](https://dl.acm.org/doi/10.5555/3305381.3305498)] <br>
+- [Model-agnostic meta-learning for fast adaptation of deep networks](https://dl.acm.org/doi/10.5555/3305381.3305498) <br>
 <sub><em>Chelsea Finn,Pieter Abbeel,Sergey Levine  - ICML & 08/2017. </em></sub>
 
 - [A concise review of recent few-shot meta-learning methods](http://crossmark.crossref.org/dialog/?doi=10.1016/j.neucom.2020.05.114&domain=pdf)] <br>

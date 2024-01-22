@@ -162,7 +162,7 @@ IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </s
 , Rajesh P N Rao,and Bingni W Brunton | </em>
 journal of Neural Engineering & 2020. </sub>
 
-## BCI in top AI conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ICCV, CVPR, TMLR, JMLR, TACL, AAAI) 
+### BCI in top AI conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ICCV, CVPR, TMLR, JMLR, TACL, AAAI) 
 - NeurIPS2024 | [CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion](https://arxiv.org/pdf/2311.07788.pdf)
 - [Generalizable Movement Intention Recognition
 with Multiple Heterogeneous EEG Datasets(]https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160462&tag=1)
@@ -173,43 +173,33 @@ with Multiple Heterogeneous EEG Datasets(]https://ieeexplore.ieee.org/stamp/stam
 
  
 ## DataSet
-**A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface** [[Paper](https://www.nature.com/articles/s41597-022-01647-1)] <br>
+- [A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface](https://www.nature.com/articles/s41597-022-01647-1)] <br>
 <sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia 
 </em>
 Nature & 01/09/2022. </sub>
 
-**BCI Competition 2008 – Graz data set A** [[Link](https://www.bbci.de/competition/iv/desc_2a.pdf)] <br>
+- [BCI Competition 2008 – Graz data set A](https://www.bbci.de/competition/iv/desc_2a.pdf)] <br>
 <sub><em>C. Brunner, R. Leeb1, G. R. M¨uller-Putz1, A. Schl¨ogl, and G.Pfurtscheller | </em>
 journal & 2008. </sub>
 
-**Evaluation Criteria for BCI Research** [[Paper](https://ieeexplore.ieee.org/document/6281214?signout=success)] <br>
+- [Evaluation Criteria for BCI Research](https://ieeexplore.ieee.org/document/6281214?signout=success)] <br>
 <sub><em>MIT PRess |2007 </em></sub>
 
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* | </em>
-journal & Year. </sub>
-
-
 # General AI papers
-**Meta-Transfer Learning for Few-Shot Learning** [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] <br>
+- [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] <br>
 <sub><em>Qianru Sun1,3∗ Yaoyao Liu2∗ Tat-Seng Chua1 Bernt Schiele3</em>
 CVPR & Year. </sub>
 
-**Model-agnostic meta-learning for fast adaptation of deep networks** [[Paper](https://dl.acm.org/doi/10.5555/3305381.3305498)] <br>
+- [Model-agnostic meta-learning for fast adaptation of deep networks](https://dl.acm.org/doi/10.5555/3305381.3305498)] <br>
 <sub><em>Chelsea Finn,Pieter Abbeel,Sergey Levine  </em>
 ICML & 08/2017. </sub>
 
-**A concise review of recent few-shot meta-learning methods** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.neucom.2020.05.114&domain=pdf)] <br>
-<sub><em>Xiaoxu Li a,1
-, Zhuo Sun b,1
-, Jing-Hao Xue b,⇑
-, Zhanyu Ma c | </em>
+- [A concise review of recent few-shot meta-learning methods](http://crossmark.crossref.org/dialog/?doi=10.1016/j.neucom.2020.05.114&domain=pdf)] <br>
+<sub><em>Xiaoxu Li a,1, Zhuo Sun b,1, Jing-Hao Xue b,⇑, Zhanyu Ma c | </em>
 Neurocomputing & 28/10/2020. </sub>
 
-**Meta-learning approaches for learning-to-learn in deep learning: A survey** [[Paper]([https://www.](https://www.sciencedirect.com/science/article/pii/S0925231222004684?via%3Dihub))] <br>
-<sub><em>Yingjie Tian a,b,c,⇑
-, Xiaoxi Zhao a,b,c
-, Wei Huang  | </em>
+- [Meta-learning approaches for learning-to-learn in deep learning: A survey]([https://www.](https://www.sciencedirect.com/science/article/pii/S0925231222004684?via%3Dihub))] <br>
+<sub><em>Yingjie Tian a,b,c,⇑, Xiaoxi Zhao a,b,c, Wei Huang  | </em>
 Neurocomputing & 21/04/2022. </sub>
 
 Metaleanring in other similar domain
@@ -225,10 +215,6 @@ Metaleanring in other similar domain
 - [Motor Imagery Tutrial](https://github.com/sylyoung)
 - [EEG Project Example: EEG Face Detection](https://github.com/NeuroTech-UCSD/EEGFaceDetection)
 
-# Awesome YouTube Playlists
-- [Design BCI project - Hardware, Software , Analyssi and ML](https://www.youtube.com/watch?v=6offaon0rR4&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=1)
-
-
 
 - [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)
 
@@ -240,6 +226,9 @@ Metaleanring in other similar domain
 
 # BCi Starter Learning Courses or Tutotials
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
+
+# Awesome YouTube Playlists
+- [Design BCI project - Hardware, Software , Analyssi and ML](https://www.youtube.com/watch?v=6offaon0rR4&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=1)
 - [Getting Started with BCI Projects Series](https://www.youtube.com/watch?v=AjMdirPPnQQ&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=5)
 - [EEG ML/DL Youtube full coding only Playlist](https://www.youtube.com/watch?v=oMhKIsmRsps&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z&index=14)(has a lot of code)
 - [PyTorch for Brain-Computer Interfaces](https://www.youtube.com/watch?v=M_1buqiRLEo&t=402s)

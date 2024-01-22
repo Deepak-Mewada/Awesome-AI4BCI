@@ -44,20 +44,16 @@ and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=
 
 
 ### non MI-BCI
-**EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals** [[Paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] <br>
-<sub> *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* <br>
-Biomedical Physics & Engineering  28/11/2023. <sub>
-<details>
-<summary>Main points of the Papers</summary>
-This is the hidden content that will be shown or hidden based on user interaction.
-</details>
+- [EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] <br>
+<sub> *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* -Biomedical Physics & Engineering  28/11/2023. <sub>
+
 
 
 - [A prototypical network for few-shot recognition of speech imagery data](https://www.sciencedirect.com/science/article/pii/S1746809423005876)
 - [Prediction of Preoperative Scale Score of Dystonia Based on Few-Shot Learning](https://www.bio-conferences.org/articles/bioconf/pdf/2023/06/bioconf_fbse2023_01014.pdf)
 
 
-**Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning** [[Paper](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] <br>
+- [Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] <br>
 <sub>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  <br>
 IEEE Transactions on Affective Computing & 21/11/2023. <sub>
 

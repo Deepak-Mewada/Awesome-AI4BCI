@@ -24,7 +24,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 ## FSL4BCI
 #### MI-BCI
-- [Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning] (https://europepmc.org/article/med/37995161#full-text-links) <br>
+- [Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning](https://europepmc.org/article/med/37995161#full-text-links) <br>
 <sub> <em>Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE*
  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.</em><sub> 
 - [A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals](https://www.worldscientific.com/doi/pdf/10.1142/S0129065723500685?download=true)
@@ -35,29 +35,30 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 - [Decoding Multi-Brain Motor Imagery From EEG
 Using Coupling Feature Extraction
 and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328637&tag=1)
-- 
+ 
 
 
 ### non MI-BCI
-- [EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)]- *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* -Biomedical Physics & Engineering  28/11/2023.
+- [EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf) <br> 
+<sub><em>*Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* -Biomedical Physics & Engineering  28/11/2023</em></sub>
 - [A prototypical network for few-shot recognition of speech imagery data](https://www.sciencedirect.com/science/article/pii/S1746809423005876)
 - [Prediction of Preoperative Scale Score of Dystonia Based on Few-Shot Learning](https://www.bio-conferences.org/articles/bioconf/pdf/2023/06/bioconf_fbse2023_01014.pdf)
 - [Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] <br>
-<sub>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  
-IEEE Transactions on Affective Computing & 21/11/2023. <sub>
+<sub><em>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  
+IEEE Transactions on Affective Computing & 21/11/2023. <em><sub>
 
 ## MetaLearning4BCI
 
 ### MetaL for MI-BCI
 - [META-EEG: Meta-learning-based class-relevant EEG representation learning for zero-calibration brain–computer interfaces](https://www.sciencedirect.com/science/article/pii/S0957417423024880?ef=pdf_download&fr=RR-2&rr=82d45a910f158a02)] <br>
 <sub><em>Ji-Wung Han1, Soyeon Bak, Jun-Mo Kim, WooHyeok Choi, Dong-Hee Shin, Young-Han Son,Tae-Eui Kam ∗
-Department of Artificial Intelligence, Korea University, Seoul 02841, South Korea; </em>
-Expert Systems With Applications & 10/10/2023. </sub>
+Department of Artificial Intelligence, Korea University, Seoul 02841, South Korea; 
+Expert Systems With Applications & 10/10/2023.</em> </sub>
 - [Does Meta-Learning Improve EEG Motor Imagery Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9871035) <br>
 <sub><em>Xiaoli Wu, and Rosa H. M. Chan, Senior Member </em>
 EMBC & 2022. </sub>
 - [Meta Learn on Constrained Transfer Learning for Low Resource Cross Subject EEG Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296222) <br>
-<sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1, MIHIR CHAUHAN1, JUN CHU1,ROHINI K. SRIHARI, ARCHITA PATHAK1, AND SARGUR N. SRIHARI* </em>-IEEE Access & 16/12/2020. </sub>
+<sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1, MIHIR CHAUHAN1, JUN CHU1,ROHINI K. SRIHARI, ARCHITA PATHAK1, AND SARGUR N. SRIHARI* </em>-IEEE Access & 16/12/2020.</em> </sub>
 - [Ultra Efficient Transfer Learning with Meta Update for Continuous EEG Classification Across Subjects*](https://caiac.pubpub.org/pub/7ajkzn1s/release/1) <br>
 <sub><em>Tiehang Duan, Mihir Chauhan, Mohammad Abuzar Shaikh, Jun Chu, and Sargur N. Srihari </em>
 journal & 2018 </sub>
@@ -74,23 +75,21 @@ journal & 2018 </sub>
 
 - [Calibration free meta learning based approach for subject independent EEG
 emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
-<sub>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  <sub>
+<sub><em>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  </em><sub>
 - [MetaEmotionNet: Spatial–Spectral–Temporal-Based Attention 3-D Dense Network With Meta-Learning for EEG Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342627)
 
 ### Domain Adaptation in EEG
 - [Learning a robust unified domain adaptation framework for cross-subject EEG-based emotion recognition](https://www.sciencedirect.com/science/article/pii/S1746809423005712?ref=pdf_download&fr=RR-2&rr=82b7c405e93f8b0b)] <br>
-<sub><em>Magdiel Jiménez-Guarneros , Gibran Fuentes-Pineda | </em> -Biomedical Signal Processing and Control & 22/06/2023. </sub>
+<sub><em>Magdiel Jiménez-Guarneros , Gibran Fuentes-Pineda -Biomedical Signal Processing and Control & 22/06/2023.</em></sub>
 
 ## Transformer4BCI
 - [paper](https://ieeexplore.ieee.org/document/10266354)
 
-
-
 ## ExAI4BCI
 [Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf)] <br>
-<sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c, a Machine Learning Group, Berlin </em> - Journal of Neuroscience Methods & 16/10/2016. </sub>
+<sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c, a Machine Learning Group, Berlin - Journal of Neuroscience Methods & 16/10/2016. </em></sub>
 
-- [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) -  introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation](https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]
+- [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) - <br> introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation](https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]
 -  
 
 ## Addressing Problems of BCI

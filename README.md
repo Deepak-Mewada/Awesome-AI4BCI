@@ -24,6 +24,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 ## FSL4BCI
 #### MI-BCI
+- [Dual Attention Relation Network With Fine-Tuning for Few-Shot EEG Motor Imagery Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10167679&tag=1)
 - [Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning](https://europepmc.org/article/med/37995161#full-text-links) <br>
 <sub> <em>Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE*
  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.</em><sub> 
@@ -35,6 +36,8 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 - [Decoding Multi-Brain Motor Imagery From EEG
 Using Coupling Feature Extraction
 and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10328637&tag=1)
+- [FSL:2020 International brain–computer interface competition: A review](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)
+- 
  
 
 
@@ -178,7 +181,9 @@ Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tu
 
 # BCi Starter Learning Courses or Tutotials
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
-  [brain Encoding Decoding Conferences](https://main-educational.github.io/material.html#brain-decoding)
+-  [brain Encoding Decoding Conferences](https://main-educational.github.io/material.html#brain-decoding)
+-  [Deep Learning for EEGs and BCI : (How I Managed to get 94% score model](https://peijin.medium.com/deep-learning-for-eegs-nad-bci-some-notes-and-some-warnings-28cfc3015a98)
+-  
 
 # Awesome YouTube Playlists
 - [Design BCI project - Hardware, Software , Analyssi and ML](https://www.youtube.com/watch?v=6offaon0rR4&list=PLGZI2VAieHv-Ou2oWi0Sp-NF9aOc32Q4p&index=1)

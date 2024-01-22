@@ -93,8 +93,10 @@ journal & 2018 </sub>
 - [On the Vulnerability of CNN Classifiers in EEG-Based BCIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8680043)
 - [Subject-independent meta-learning framework towards optimal training of EEG-based classifiers](https://www.sciencedirect.com/science/article/pii/S0893608024000224)
 - [Model Agnostic Meta Learning for EEG Classification: Multitask Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10150186)
+- [Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification](https://www.semanticscholar.org/paper/Few-Is-Enough%3A-Task-Augmented-Active-Meta-Learning-Yuan-Mobiny/a8286ccd3dd83d1bd97582daa09d8db94724d799)(https://arxiv.org/pdf/2007.05009.pdf)
+- [Convolution Monge Mapping Normalization for learning on sleep data](https://openreview.net/forum?id=CuHymkHRus)
 
-- 
+
 ### MetaL4 non MI-EEG BCI
 
 **Calibration free meta learning based approach for subject independent EEG
@@ -171,8 +173,17 @@ journal of Neural Engineering & 2020. </sub>
 ## BCI in top AI conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ICCV, CVPR, TMLR, JMLR, TACL, AAAI) 
 - NeurIPS | [CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion](https://arxiv.org/pdf/2311.07788.pdf)
 
+## 2024 Top ML Conferences Miscellenaious
 
- ## DataSet
+- [Generalizable Movement Intention Recognition
+with Multiple Heterogeneous EEG Datasets(]https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160462&tag=1)
+- [EEG Decoding for Datasets with Heterogenous Electrode Configurations using Transfer Learning Graph Neural Networks](https://arxiv.org/pdf/2306.13109v1.pdf)
+- [Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling](https://openreview.net/forum?id=hiOUySN0ub)
+- [LARGE BRAIN MODEL FOR LEARNING GENERIC REPRESENTATIONS WITH TREMENDOUS EEG DATA IN BCI](https://openreview.net/pdf?id=QzTpTRVtrP)(LLM)
+- 
+
+ 
+## DataSet
 **A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface** [[Paper](https://www.nature.com/articles/s41597-022-01647-1)] <br>
 <sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia 
 </em>

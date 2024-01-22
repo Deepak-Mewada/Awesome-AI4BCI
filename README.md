@@ -16,14 +16,12 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 # Papers
 
 ## Survey
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
-journal & Year. </sub>
 
-**International Winter Workshop on Brain-Computer Interface (BCI)** [[Paper](https://ieeexplore.ieee.org/xpl/conhome/10078410/proceeding?isnumber=10078447&sortType=vol-only-seq&pageNumber=1)] <br>
+
+- [International Winter Workshop on Brain-Computer Interface (BCI)](https://ieeexplore.ieee.org/xpl/conhome/10078410/proceeding?isnumber=10078447&sortType=vol-only-seq&pageNumber=1)] <br>
 <sub>IEEE Xplore & 2023. </sub>
 
-**2020 International brain–computer interface competition: A review** [[Paper](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)] <br>
+- [2020 International brain–computer interface competition: A review](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)] <br>
 <sub><em>Ji-Hoon Jeong et.al china;</em> Frontiers of Human Neuroscience & 2022. <sub>
 
 ## FSL4BCI
@@ -97,20 +95,20 @@ journal & 2018 </sub>
 
 ### MetaL4 non MI-EEG BCI
 
-**Calibration free meta learning based approach for subject independent EEG
-emotion recognition** [[Paper](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
+- [Calibration free meta learning based approach for subject independent EEG
+emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
 <sub>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  <sub>
 
 - [MetaEmotionNet: Spatial–Spectral–Temporal-Based Attention 3-D Dense Network With Meta-Learning for EEG Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342627)
 
 ### Domain Adaptation in EEG
-**Learning a robust unified domain adaptation framework for cross-subject EEG-based emotion recognition** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809423005712?ref=pdf_download&fr=RR-2&rr=82b7c405e93f8b0b)] <br>
+- [Learning a robust unified domain adaptation framework for cross-subject EEG-based emotion recognition](https://www.sciencedirect.com/science/article/pii/S1746809423005712?ref=pdf_download&fr=RR-2&rr=82b7c405e93f8b0b)] <br>
 <sub><em>Magdiel Jiménez-Guarneros ∗
 , Gibran Fuentes-Pineda | </em>
 Biomedical Signal Processing and Control & 22/06/2023. </sub>
 
 ## Transformer4BCI
-https://ieeexplore.ieee.org/document/10266354
+- [paper](https://ieeexplore.ieee.org/document/10266354)
 
 
 
@@ -128,56 +126,49 @@ Journal of Neuroscience Methods & 16/10/2016. </sub>
 ## Addressing Problems of BCI
 
 ### Variability in EEG-BCI
-**Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives** [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968845/pdf/fnins-17-1122661.pdf)] <br>
+- [Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968845/pdf/fnins-17-1122661.pdf)] <br>
 <sub> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China<br>
 Frontiers in Neuroscience & 13/02/2023. </em><sub> 
 
-**Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization** [[Paper](https://weilongzheng.github.io/publication/ma2019reducing/ma2019reducing.pdf)] <br>
+- [Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization](https://weilongzheng.github.io/publication/ma2019reducing/ma2019reducing.pdf)] <br>
 <sub> <em>Bo-Qun Ma1, He Li1, Wei-Long Zheng2, and Bao-Liang Lu1, China <br>
 Springer Nature & 2019. </em><sub> 
 
-**MITIGATING INTER-SUBJECT BRAIN SIGNAL VARIABILITY FOR EEG-BASED DRIVER FATIGUE STATE CLASSIFICATION** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414613&tag=1)] <br> 
+- [MITIGATING INTER-SUBJECT BRAIN SIGNAL VARIABILITY FOR EEG-BASED DRIVER FATIGUE STATE CLASSIFICATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414613&tag=1)] <br> 
 <sub><em>Sunhee Hwang, Sungho Park, Dohyung Kim, Jewook Lee1 and Hyeran Byun <br>
 ICASSP & 2021 </em></sub>
 
-**EEG variability: Task-driven or subject-driven signal of interest?** [[Paper](https://www.sciencedirect.com/science/article/pii/S105381192200163X)] <br>
+- [EEG variability: Task-driven or subject-driven signal of interest?]https://www.sciencedirect.com/science/article/pii/S105381192200163X)] <br>
 <sub><em>Erin Gibson a, Nancy J. Lobaugh c d, Steve Joordens b, Anthony R. McIntosh,Univ of Totanto Canada;</em> Elsevier & 15 MAy 2022 </sub>
 
-**Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC** [[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] <br>
+- [Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] <br>
 <sub><em>*Authors* </em>
 journal of Neural Engineering & 2019. </sub>
 
 
-https://ieeexplore.ieee.org/document/10266354
+- [paper](https://ieeexplore.ieee.org/document/10266354)
 
-
-**Paper Title** [[Paper](https://www.)] <br>
-<sub><em>*Authors* </em>
-journal & Year. </sub>
 
 ### Zero-Claibration BCI
-**Switching EEG Headsets Made Easy: Reducing Offline Calibration Effort Using Active Weighted Adaptation Regularization** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7436820)] <br>
+- [Switching EEG Headsets Made Easy: Reducing Offline Calibration Effort Using Active Weighted Adaptation Regularization** ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7436820)] <br>
 <sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE </em><br>
 IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </sub>
 
 
 
 ## Generalised Neural Decoder
-**Generalized neural decoders for transfer learning across participants and recording modalities** [[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/pdf)] <br>
+- [Generalized neural decoders for transfer learning across participants and recording modalities](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/pdf)] <br>
 <sub><em>Steven M Peterson1,2, Zoe Steine-Hanson3, Nathan Davis3
 , Rajesh P N Rao,and Bingni W Brunton | </em>
 journal of Neural Engineering & 2020. </sub>
 
 ## BCI in top AI conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ICCV, CVPR, TMLR, JMLR, TACL, AAAI) 
-- NeurIPS | [CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion](https://arxiv.org/pdf/2311.07788.pdf)
-
-## 2024 Top ML Conferences Miscellenaious
-
+- NeurIPS2024 | [CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion](https://arxiv.org/pdf/2311.07788.pdf)
 - [Generalizable Movement Intention Recognition
 with Multiple Heterogeneous EEG Datasets(]https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160462&tag=1)
 - [EEG Decoding for Datasets with Heterogenous Electrode Configurations using Transfer Learning Graph Neural Networks](https://arxiv.org/pdf/2306.13109v1.pdf)
 - [Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling](https://openreview.net/forum?id=hiOUySN0ub)
-- [LARGE BRAIN MODEL FOR LEARNING GENERIC REPRESENTATIONS WITH TREMENDOUS EEG DATA IN BCI](https://openreview.net/pdf?id=QzTpTRVtrP)(LLM)
+- ICLR2024 [LARGE BRAIN MODEL FOR LEARNING GENERIC REPRESENTATIONS WITH TREMENDOUS EEG DATA IN BCI](https://openreview.net/pdf?id=QzTpTRVtrP)(LLM)
 - 
 
  

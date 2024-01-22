@@ -89,8 +89,9 @@ emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.20
 [Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf)] <br>
 <sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c, a Machine Learning Group, Berlin - Journal of Neuroscience Methods & 16/10/2016. </em></sub>
 
-- [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) - <br> introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation](https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]
--  
+- [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) - <br>
+ </em> introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation] (https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]</em>
+
 
 ## Addressing Problems of BCI
 ### Variability in EEG-BCI
@@ -102,20 +103,18 @@ emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.20
 <sub><em>Sunhee Hwang, Sungho Park, Dohyung Kim, Jewook Lee1 and Hyeran Byun - ICASSP & 2021 </em></sub>
 - [EEG variability: Task-driven or subject-driven signal of interest?]https://www.sciencedirect.com/science/article/pii/S105381192200163X)] <br>
 <sub><em>Erin Gibson a, Nancy J. Lobaugh c d, Steve Joordens b, Anthony R. McIntosh,Univ of Totanto Canada;</em> Elsevier & 15 MAy 2022 </sub>
-- [Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] -journal of Neural Engineering & 2019. </sub>
+- [Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] - <em> Journal of Neural Engineering & 2019. </em></sub>
 - [paper](https://ieeexplore.ieee.org/document/10266354)
-
 
 ### Zero-Claibration BCI
 - [Switching EEG Headsets Made Easy: Reducing Offline Calibration Effort Using Active Weighted Adaptation Regularization** ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7436820)] <br>
-<sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE </em> - 
-IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </sub>
-
+<sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE  - 
+IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </em></sub>
 
 ## Generalised Neural Decoder
 - [Generalized neural decoders for transfer learning across participants and recording modalities](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/pdf)] <br>
-<sub><em>Steven M Peterson1,2, Zoe Steine-Hanson3, Nathan Davis, Rajesh P N Rao,and Bingni W Brunton | </em>
-journal of Neural Engineering & 2020. </sub>
+<sub><em>Steven M Peterson1,2, Zoe Steine-Hanson3, Nathan Davis, Rajesh P N Rao,and Bingni W Brunton | 
+journal of Neural Engineering & 2020. </em></sub>
 
 ### BCI in top AI conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ICCV, CVPR, TMLR, JMLR, TACL, AAAI) 
 - NeurIPS2024 | [CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion](https://arxiv.org/pdf/2311.07788.pdf)
@@ -145,16 +144,13 @@ journal & 2008. </sub>
 CVPR & Year. </sub>
 
 - [Model-agnostic meta-learning for fast adaptation of deep networks](https://dl.acm.org/doi/10.5555/3305381.3305498)] <br>
-<sub><em>Chelsea Finn,Pieter Abbeel,Sergey Levine  </em>
-ICML & 08/2017. </sub>
+<sub><em>Chelsea Finn,Pieter Abbeel,Sergey Levine  - ICML & 08/2017. </em></sub>
 
 - [A concise review of recent few-shot meta-learning methods](http://crossmark.crossref.org/dialog/?doi=10.1016/j.neucom.2020.05.114&domain=pdf)] <br>
-<sub><em>Xiaoxu Li a,1, Zhuo Sun b,1, Jing-Hao Xue b,⇑, Zhanyu Ma c | </em>
-Neurocomputing & 28/10/2020. </sub>
+<sub><em>Xiaoxu Li a,1, Zhuo Sun b,1, Jing-Hao Xue b,⇑, Zhanyu Ma c ,Neurocomputing & 28/10/2020.</em> </sub>
 
 - [Meta-learning approaches for learning-to-learn in deep learning: A survey]([https://www.](https://www.sciencedirect.com/science/article/pii/S0925231222004684?via%3Dihub))] <br>
-<sub><em>Yingjie Tian a,b,c,⇑, Xiaoxi Zhao a,b,c, Wei Huang  | </em>
-Neurocomputing & 21/04/2022. </sub>
+<sub><em>Yingjie Tian a,b,c,⇑, Xiaoxi Zhao a,b,c, Wei Huang  | Neurocomputing & 21/04/2022. </em></sub>
 
 Metaleanring in other similar domain
 - [Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification](https://arxiv.org/pdf/2007.05009.pdf)

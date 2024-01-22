@@ -86,7 +86,7 @@ emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.20
 - [paper](https://ieeexplore.ieee.org/document/10266354)
 
 ## ExAI4BCI
-[Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf)] <br>
+[Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf) <br>
 <sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c, a Machine Learning Group, Berlin - Journal of Neuroscience Methods & 16/10/2016. </em></sub>
 
 - [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) - <br>

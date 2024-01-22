@@ -16,8 +16,6 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 # Papers
 
 ## Survey
-
-
 - [International Winter Workshop on Brain-Computer Interface (BCI)](https://ieeexplore.ieee.org/xpl/conhome/10078410/proceeding?isnumber=10078447&sortType=vol-only-seq&pageNumber=1)] <br>
 <sub>IEEE Xplore & 2023. </sub>
 
@@ -25,16 +23,13 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 <sub><em>Ji-Hoon Jeong et.al china;</em> Frontiers of Human Neuroscience & 2022. <sub>
 
 ## FSL4BCI
-
-### MI-BCI
-
+#### MI-BCI
 - [Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning] (https://europepmc.org/article/med/37995161#full-text-links) <br>
-<sub> <em>Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE*  <br>
+<sub> <em>Li Zhu, Youyang Liu, Riheng Liu, Yong Peng, Jianting Cao,Junhua Li, and Wanzeng Kong, Senior Member, IEEE*
  IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING & 23/11/2023.</em><sub> 
 - [A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals](https://www.worldscientific.com/doi/pdf/10.1142/S0129065723500685?download=true)
 - [Decoding Multi-Brain Motor Imagery From EEG Using Coupling Feature Extraction and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10328637)
 - [Meta-Optimization of Initial Weights for More Effective Few- and Zero-Shot Learning in BCI Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329624)
-
 - [Zero-Shot Learning for EEG Classification in Motor Imagery-Based BCI System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207741)
 - [Cross-Subject EEG Emotion Recognition Using Domain Adaptive Few-Shot Learning Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669542&tag=1)
 - [Decoding Multi-Brain Motor Imagery From EEG
@@ -44,42 +39,28 @@ and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=
 
 
 ### non MI-BCI
-- [EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)] <br>
-<sub> *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* -Biomedical Physics & Engineering  28/11/2023. <sub>
-
-
-
+- [EEG-Fest: Few-shot based Attention Network for Driver's DrowsinessEstimation with EEG Signals](https://iopscience.iop.org/article/10.1088/2057-1976/ad0f3f/pdf)]- *Ning Ding, Ce Zhang and Azim Eskandarian, Mechanical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA* -Biomedical Physics & Engineering  28/11/2023.
 - [A prototypical network for few-shot recognition of speech imagery data](https://www.sciencedirect.com/science/article/pii/S1746809423005876)
 - [Prediction of Preoperative Scale Score of Dystonia Based on Few-Shot Learning](https://www.bio-conferences.org/articles/bioconf/pdf/2023/06/bioconf_fbse2023_01014.pdf)
-
-
 - [Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] <br>
-<sub>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  <br>
+<sub>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  
 IEEE Transactions on Affective Computing & 21/11/2023. <sub>
 
 ## MetaLearning4BCI
 
 ### MetaL for MI-BCI
-
-
 - [META-EEG: Meta-learning-based class-relevant EEG representation learning for zero-calibration brain–computer interfaces](https://www.sciencedirect.com/science/article/pii/S0957417423024880?ef=pdf_download&fr=RR-2&rr=82d45a910f158a02)] <br>
 <sub><em>Ji-Wung Han1, Soyeon Bak, Jun-Mo Kim, WooHyeok Choi, Dong-Hee Shin, Young-Han Son,Tae-Eui Kam ∗
 Department of Artificial Intelligence, Korea University, Seoul 02841, South Korea; </em>
 Expert Systems With Applications & 10/10/2023. </sub>
-
 - [Does Meta-Learning Improve EEG Motor Imagery Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9871035) <br>
 <sub><em>Xiaoli Wu, and Rosa H. M. Chan, Senior Member </em>
 EMBC & 2022. </sub>
-
 - [Meta Learn on Constrained Transfer Learning for Low Resource Cross Subject EEG Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9296222) <br>
-<sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1, MIHIR CHAUHAN1, JUN CHU1,ROHINI K. SRIHARI, ARCHITA PATHAK1
-, AND SARGUR N. SRIHARI* </em><br>
-IEEE Access & 16/12/2020. </sub>
-
+<sub><em>*TIEHANG DUAN 1,2, MOHAMMAD ABUZAR SHAIKH1, MIHIR CHAUHAN1, JUN CHU1,ROHINI K. SRIHARI, ARCHITA PATHAK1, AND SARGUR N. SRIHARI* </em>-IEEE Access & 16/12/2020. </sub>
 - [Ultra Efficient Transfer Learning with Meta Update for Continuous EEG Classification Across Subjects*](https://caiac.pubpub.org/pub/7ajkzn1s/release/1) <br>
 <sub><em>Tiehang Duan, Mihir Chauhan, Mohammad Abuzar Shaikh, Jun Chu, and Sargur N. Srihari </em>
 journal & 2018 </sub>
-
 - [Meta-Learning for Fast and Privacy-Preserving Source Knowledge Transfer of EEG-Based BCIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9942685&tag=1)
 - [Privacy-Preserving Domain Adaptation for Motor Imagery-Based Brain-Computer Interfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9760113)
 - [On the Vulnerability of CNN Classifiers in EEG-Based BCIs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8680043)
@@ -94,14 +75,11 @@ journal & 2018 </sub>
 - [Calibration free meta learning based approach for subject independent EEG
 emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
 <sub>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  <sub>
-
 - [MetaEmotionNet: Spatial–Spectral–Temporal-Based Attention 3-D Dense Network With Meta-Learning for EEG Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342627)
 
 ### Domain Adaptation in EEG
 - [Learning a robust unified domain adaptation framework for cross-subject EEG-based emotion recognition](https://www.sciencedirect.com/science/article/pii/S1746809423005712?ref=pdf_download&fr=RR-2&rr=82b7c405e93f8b0b)] <br>
-<sub><em>Magdiel Jiménez-Guarneros ∗
-, Gibran Fuentes-Pineda | </em>
-Biomedical Signal Processing and Control & 22/06/2023. </sub>
+<sub><em>Magdiel Jiménez-Guarneros , Gibran Fuentes-Pineda | </em> -Biomedical Signal Processing and Control & 22/06/2023. </sub>
 
 ## Transformer4BCI
 - [paper](https://ieeexplore.ieee.org/document/10266354)
@@ -110,52 +88,34 @@ Biomedical Signal Processing and Control & 22/06/2023. </sub>
 
 ## ExAI4BCI
 [Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf)] <br>
-<sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c,∗∗
-a Machine Learning Group, Berlin </em>
-Journal of Neuroscience Methods & 16/10/2016. </sub>
+<sub><em>Irene Sturma, Sebastian Lapuschkinb, Wojciech Samek b,∗, Klaus-Robert Müller a,c, a Machine Learning Group, Berlin </em> - Journal of Neuroscience Methods & 16/10/2016. </sub>
 
 - [XBrainLab: An Open-Source Software for Explainable Artificial Intelligence-Based EEG Analysis](https://openreview.net/pdf?id=82brfaM02h) -  introduce XBrainLab, an open-source user-friendly software, for accelerated interpretation of neural patterns from EEG data based on cutting-edge computational approach. More details in this [[presentation](https://docs.google.com/presentation/d/17N0tN0pdMqVCeIFpMDHl6H4B92INjt-OYddn6me4Nds/edit#slide=id.g2423a157453_1_0)]
 -  
 
-
-
 ## Addressing Problems of BCI
-
 ### Variability in EEG-BCI
 - [Discrepancy between inter- and intra-subject variability in EEG-based motor imagery brain-computer interface: Evidence from multiple perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968845/pdf/fnins-17-1122661.pdf)] <br>
-<sub> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China<br>
-Frontiers in Neuroscience & 13/02/2023. </em><sub> 
-
+<sub> <em>Gan Huang,Zhiheng Zhao1,Shaorong Zhang,Zhenxing Hu1,Jiaming Fan1,Meisong Fu1,Jiale Chen1,Yaqiong Xiao4, Jun Wang5 and Guo Dan; China - Frontiers in Neuroscience & 13/02/2023. </em><sub> 
 - [Reducing the Subject Variability of EEG Signals with Adversarial Domain Generalization](https://weilongzheng.github.io/publication/ma2019reducing/ma2019reducing.pdf)] <br>
-<sub> <em>Bo-Qun Ma1, He Li1, Wei-Long Zheng2, and Bao-Liang Lu1, China <br>
-Springer Nature & 2019. </em><sub> 
-
+<sub> <em>Bo-Qun Ma1, He Li1, Wei-Long Zheng2, and Bao-Liang Lu1, China - Springer Nature & 2019. </em><sub> 
 - [MITIGATING INTER-SUBJECT BRAIN SIGNAL VARIABILITY FOR EEG-BASED DRIVER FATIGUE STATE CLASSIFICATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414613&tag=1)] <br> 
-<sub><em>Sunhee Hwang, Sungho Park, Dohyung Kim, Jewook Lee1 and Hyeran Byun <br>
-ICASSP & 2021 </em></sub>
-
+<sub><em>Sunhee Hwang, Sungho Park, Dohyung Kim, Jewook Lee1 and Hyeran Byun - ICASSP & 2021 </em></sub>
 - [EEG variability: Task-driven or subject-driven signal of interest?]https://www.sciencedirect.com/science/article/pii/S105381192200163X)] <br>
 <sub><em>Erin Gibson a, Nancy J. Lobaugh c d, Steve Joordens b, Anthony R. McIntosh,Univ of Totanto Canada;</em> Elsevier & 15 MAy 2022 </sub>
-
-- [Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] <br>
-<sub><em>*Authors* </em>
-journal of Neural Engineering & 2019. </sub>
-
-
+- [Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] -journal of Neural Engineering & 2019. </sub>
 - [paper](https://ieeexplore.ieee.org/document/10266354)
 
 
 ### Zero-Claibration BCI
 - [Switching EEG Headsets Made Easy: Reducing Offline Calibration Effort Using Active Weighted Adaptation Regularization** ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7436820)] <br>
-<sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE </em><br>
+<sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE </em> - 
 IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </sub>
-
 
 
 ## Generalised Neural Decoder
 - [Generalized neural decoders for transfer learning across participants and recording modalities](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/pdf)] <br>
-<sub><em>Steven M Peterson1,2, Zoe Steine-Hanson3, Nathan Davis3
-, Rajesh P N Rao,and Bingni W Brunton | </em>
+<sub><em>Steven M Peterson1,2, Zoe Steine-Hanson3, Nathan Davis, Rajesh P N Rao,and Bingni W Brunton | </em>
 journal of Neural Engineering & 2020. </sub>
 
 ### BCI in top AI conferences and journals (NeurIPS, ICML, ICLR, ACL, EMNLP, ICCV, CVPR, TMLR, JMLR, TACL, AAAI) 
@@ -170,8 +130,7 @@ with Multiple Heterogeneous EEG Datasets(]https://ieeexplore.ieee.org/stamp/stam
  
 ## DataSet
 - [A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface](https://www.nature.com/articles/s41597-022-01647-1)] <br>
-<sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia 
-</em>
+<sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia </em> 
 Nature & 01/09/2022. </sub>
 
 - [BCI Competition 2008 – Graz data set A](https://www.bbci.de/competition/iv/desc_2a.pdf)] <br>

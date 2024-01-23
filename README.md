@@ -19,16 +19,16 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 ## Survey
 - [International Winter Workshop on Brain-Computer Interface (BCI)](https://ieeexplore.ieee.org/xpl/conhome/10078410/proceeding?isnumber=10078447&sortType=vol-only-seq&pageNumber=1)] <br>
 <sub>IEEE Xplore & 2023. </sub>
-
 - [2020 International brain–computer interface competition: A review](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)] <br>
 <sub><em>Ji-Hoon Jeong et.al china;</em> Frontiers of Human Neuroscience & 2022. <sub>
 
 ## Architectures
-Survey
+* Survey
 -[On the Deep Learning Models for EEG-Based Brain-Computer Interface Using Motor Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9854857&tag=1)
-- [MAtt: A Manifold Attention Network for
-EEG Decoding](https://proceedings.neurips.cc/paper_files/paper/2022/file/c981fd12b1d5703f19bd8289da9fc996-Paper-Conference.pdf) - geometric learning
+- [MAtt: A Manifold Attention Network for EEG Decoding] (https://proceedings.neurips.cc/paper_files/paper/2022/file/c981fd12b1d5703f19bd8289da9fc996-Paper-Conference.pdf) - geometric learning
 - [EEG-ITNet: An Explainable Inception Temporal Convolutional Network for Motor Imagery Classification](https://paperswithcode.com/paper/eeg-itnet-an-explainable-inception-temporal)
+- [MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/9658165) [Supple](https://github.com/IoBT-VISTEC/MIN2Net/blob/main/supplementary%20materials/Supplementary%20Materials.pdf)
+- 
 
 ## FSL4BCI
 #### MI-BCI
@@ -88,7 +88,6 @@ journal & 2018 </sub>
 
 
 ### MetaL4 non MI-EEG BCI
-
 - [Calibration free meta learning based approach for subject independent EEG
 emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.2021.103289&domain=pdf)<br>
 <sub><em>Swapnil Bhosale, Rupayan Chakraborty, Sunil Kumar Kopparapu, TCS Research | Biomedical Signal Processing and Control, 2022  </em><sub>
@@ -146,30 +145,28 @@ with Multiple Heterogeneous EEG Datasets(]https://ieeexplore.ieee.org/stamp/stam
 - [A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface](https://www.nature.com/articles/s41597-022-01647-1)] <br>
 <sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia </em> 
 Nature & 01/09/2022. </sub>
-
 - [BCI Competition 2008 – Graz data set A](https://www.bbci.de/competition/iv/desc_2a.pdf)] <br>
 <sub><em>C. Brunner, R. Leeb1, G. R. M¨uller-Putz1, A. Schl¨ogl, and G.Pfurtscheller | </em>
 journal & 2008. </sub>
-
 - [Evaluation Criteria for BCI Research](https://ieeexplore.ieee.org/document/6281214?signout=success)] <br>
 <sub><em>MIT PRess |2007 </em></sub>
 - [Sleep Physionet dataset](https://github.com/agramfort/22_main_ml_meeg_tuto/blob/main/6-dl_sleep_staging.ipynb)- Alexander Grahmfort
+* Corpus
+- [Physionet.org/](https://physionet.org/about/database/)
+- [A list of all public EEG-datasets.](https://github.com/meagmohit/EEG-Datasets)
 
 # General AI papers
 - [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] <br>
 <sub><em>Qianru Sun1,3∗ Yaoyao Liu2∗ Tat-Seng Chua1 Bernt Schiele3</em>
 CVPR & Year. </sub>
-
 - [Model-agnostic meta-learning for fast adaptation of deep networks](https://dl.acm.org/doi/10.5555/3305381.3305498) <br>
 <sub><em>Chelsea Finn,Pieter Abbeel,Sergey Levine  - ICML & 08/2017. </em></sub>
-
 - [A concise review of recent few-shot meta-learning methods](http://crossmark.crossref.org/dialog/?doi=10.1016/j.neucom.2020.05.114&domain=pdf)] <br>
 <sub><em>Xiaoxu Li a,1, Zhuo Sun b,1, Jing-Hao Xue b,⇑, Zhanyu Ma c ,Neurocomputing & 28/10/2020.</em> </sub>
-
 - [Meta-learning approaches for learning-to-learn in deep learning: A survey]([https://www.](https://www.sciencedirect.com/science/article/pii/S0925231222004684?via%3Dihub))] <br>
 <sub><em>Yingjie Tian a,b,c,⇑, Xiaoxi Zhao a,b,c, Wei Huang  | Neurocomputing & 21/04/2022. </em></sub>
 
-Metaleanring in other similar domain
+* Metaleanring in other similar domain
 - [Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification](https://arxiv.org/pdf/2007.05009.pdf)
 
 # Thesis
@@ -179,16 +176,13 @@ Metaleanring in other similar domain
 - [MetaEEG](https://github.com/MAILAB-korea/META-EEG/tree/main)
 - [berdakh](https://github.com/berdakh?page=2&tab=repositories)
 - [Transfer Learning Algorithms for EEG-based BCI](https://github.com/sylyoung/DeepTransferEEG?tab=readme-ov-file#transfer-learning-algorithms-for-eeg-based-bci)
-- [Motor Imagery Tutrial](https://github.com/sylyoung)
+- [Motor Imagery Tutorial](https://github.com/sylyoung)
 - [EEG Project Example: EEG Face Detection](https://github.com/NeuroTech-UCSD/EEGFaceDetection)
-- [Machine learning on electrophysiology MEG/EEG signals
-Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tuto/tree/main) - Agrahmfort and Hubert Banville
+- [Machine learning on electrophysiology MEG/EEG signals Course at MAIN educational 2022](https://github.com/agramfort/22_main_ml_meeg_tuto/tree/main) - Agrahmfort and Hubert Banville
 - [EEGModels project: A Collection of Convolutional Neural Network (CNN)](https://github.com/vlawhern/arl-eegmodels)
 - [SSVEP pipeline UCSD Challange](https://github.com/YundongWang/BCI_Challenge)
-  
-
-
 - [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)
+- [ML-DL for EEG- INTERFACES*](https://github.com/IoBT-VISTEC?tab=repositories)-BRAIN lab (to be explored)
 
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)

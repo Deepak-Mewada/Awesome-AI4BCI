@@ -11,6 +11,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
   - [Materials Generation](#materials-generation)
   - [Awesome Githubs](#Awesome-Githubs)
   - [Resources-for-Students](#Resources-for-Students)
+  - [Architectures](#Architectures)
 
 
 # Papers
@@ -21,6 +22,13 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 - [2020 International brain–computer interface competition: A review](https://www.frontiersin.org/articles/10.3389/fnhum.2022.898300/full)] <br>
 <sub><em>Ji-Hoon Jeong et.al china;</em> Frontiers of Human Neuroscience & 2022. <sub>
+
+## Architectures
+Survey
+-[On the Deep Learning Models for EEG-Based Brain-Computer Interface Using Motor Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9854857&tag=1)
+- [MAtt: A Manifold Attention Network for
+EEG Decoding](https://proceedings.neurips.cc/paper_files/paper/2022/file/c981fd12b1d5703f19bd8289da9fc996-Paper-Conference.pdf) - geometric learning
+- [EEG-ITNet: An Explainable Inception Temporal Convolutional Network for Motor Imagery Classification](https://paperswithcode.com/paper/eeg-itnet-an-explainable-inception-temporal)
 
 ## FSL4BCI
 #### MI-BCI
@@ -49,6 +57,8 @@ and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=
 - [Emotion Recognition from Few-Channel EEG Signals by Integrating Deep Feature Aggregation and Transfer Learning](https://www.computer.org/csdl/journal/ta/5555/01/10328701/1SkODjGeYz6)] <br>
 <sub><em>*Fang Liu et.al, BNRist, the Department of Computer Science and Technology, Tsinghua University, China  
 IEEE Transactions on Affective Computing & 21/11/2023. <em><sub>
+- [Neonatal seizure detection combined deep network
+and meta-learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10385362&tag=1)
 
 ## MetaLearning4BCI
 ### Bayesian MetaL

@@ -27,7 +27,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 - [On the Deep Learning Models for EEG-Based Brain-Computer Interface Using Motor Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9854857&tag=1)
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://proceedings.neurips.cc/paper_files/paper/2022/file/c981fd12b1d5703f19bd8289da9fc996-Paper-Conference.pdf) - geometric learning
 - [EEG-ITNet: An Explainable Inception Temporal Convolutional Network for Motor Imagery Classification](https://paperswithcode.com/paper/eeg-itnet-an-explainable-inception-temporal)
-- [MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/9658165) - [Supple](https://github.com/IoBT-VISTEC/MIN2Net/blob/main/supplementary%20materials/Supplementary%20Materials.pdf)
+- [MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/9658165) - [Supple](https://github.com/IoBT-VISTEC/MIN2Net/blob/main/supplementary%20materials/Supplementary%20Materials.pdf) - (Tool Python API)
 - 
 
 ## FSL4BCI

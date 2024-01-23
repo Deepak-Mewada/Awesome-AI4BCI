@@ -51,7 +51,9 @@ and Few-Shot Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=
 IEEE Transactions on Affective Computing & 21/11/2023. <em><sub>
 
 ## MetaLearning4BCI
-
+### Bayesian MetaL
+- [Adaptive Bayesian Meta-Learning for EEG Signal
+Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386001)
 ### MetaL for MI-BCI
 - [META-EEG: Meta-learning-based class-relevant EEG representation learning for zero-calibration brain–computer interfaces](https://www.sciencedirect.com/science/article/pii/S0957417423024880?ef=pdf_download&fr=RR-2&rr=82d45a910f158a02)] <br>
 <sub><em>Ji-Wung Han1, Soyeon Bak, Jun-Mo Kim, WooHyeok Choi, Dong-Hee Shin, Young-Han Son,Tae-Eui Kam ∗
@@ -72,6 +74,7 @@ journal & 2018 </sub>
 - [Model Agnostic Meta Learning for EEG Classification: Multitask Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10150186)
 - [Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification](https://www.semanticscholar.org/paper/Few-Is-Enough%3A-Task-Augmented-Active-Meta-Learning-Yuan-Mobiny/a8286ccd3dd83d1bd97582daa09d8db94724d799)(https://arxiv.org/pdf/2007.05009.pdf)
 - [Convolution Monge Mapping Normalization for learning on sleep data](https://openreview.net/forum?id=CuHymkHRus)
+
 
 
 ### MetaL4 non MI-EEG BCI

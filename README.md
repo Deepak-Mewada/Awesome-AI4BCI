@@ -4,8 +4,8 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 ## Contents
 - [Papers](#papers)
   - [Survey](#survey)
-  - [Few-Shot Learning for BCIs](#FSL4BCI)
-  - [Meta-Leanring for BCI](#MetaL4BCI)
+  - [FSL  for BCIs](#FSL4BCI)
+  - [MetaL for BCI](#MetaL4BCI)
   - [Equivariant Networks](#equivariant-networks)
   - [Transformer for BCI](#transformer4BCI)
   - [Materials Generation](#materials-generation)

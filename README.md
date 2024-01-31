@@ -168,6 +168,9 @@ CVPR & Year. </sub>
 
 * Metaleanring in other similar domain
 - [Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification](https://arxiv.org/pdf/2007.05009.pdf)
+- [ENHANCING GENERALIZATION OF FIRST-ORDER META-LEARNING](https://openreview.net/pdf?id=rJlzbihzdE) - Reptile updated version -2019
+- [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf)
+
 
 # Thesis
 -  [FEW-SHOT CLASSIFICATION OF EEG WITH QUASI-INDUCTIVE TRANSFER LEARNING](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9104237&fileOId=9104238) | Bachelor thesis
@@ -221,16 +224,22 @@ CVPR & Year. </sub>
 - EEG2image [Synchrosqueezing in Python](https://github.com/OverLordGoldDragon/ssqueezepy)
 - 
 ----------------------------
+## DL4EEG - newbie resource
+- [Review of the BCI competition IV](http://www.frontiersin.org/Neuroprosthetics/10.3389/fnins.2012.00055/abstract)
+- [Deep learning with convolutional neural networks for EEG decoding and visualization](https://onlinelibrary.wiley.com/doi/10.1002/hbm.23730)
+- []()
+
+------------------------------------------------
 so the next section is my brainstorming place for futur eof BCI -
 This is in idation phase and you find it intersting or have something to share then I would love to hear you- please mail me at deepakmewada96@kgpain.iitkgp.ac.in
 
-# Ai4BCI - An Open AI tool box to bring BCI out of the lab 
+#### Ai4BCI - An Open AI tool box to bring BCI out of the lab 
 Goal - bridge the gap and develope resources which are more accessible.
  We are planning to start this initiative with the aim of making BCI an everyday technology, just like AI has made computer vision, NLP, and speech processing accessible to everyone. Every hand now has access to these technologies, but BCI, despite being an earlier development, remains confined to the lab. Why is that?
 
 #### but Why?
 - if not now then when? ;)
-- lot of companies are really focusing on finding people now who are in this field but there isn't really acommunity that foster them really well
+- lot of companies are really focusing on finding people now who are in this field but there is need of acommunity that foster them really well 
 - there is no set major for this field
 - BCI, a really cool area but really underdeveloped despite of all the hype
 - having had a bit of experience lookoing at these larger companies and seeing the direction they're heading at the end of the day what the intention for all of this would be to develope the kind of systems or develop  more approachable ways to understand BCI as a whole if it's going to become a technology that is widely used in the future. it seems that it is going toi be one of the technologies that will be likely used in our generations- it's important that we grasp basic understanding of how to build smaller project , tutorial, curriculam, communities around technology that will be impactful. 

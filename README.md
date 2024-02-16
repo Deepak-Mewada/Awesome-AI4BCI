@@ -210,11 +210,17 @@ CVPR & Year. </sub>
 - [SSVEP pipeline UCSD Challange](https://github.com/YundongWang/BCI_Challenge)
 - [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)
 - [ML-DL for EEG- INTERFACES*](https://github.com/IoBT-VISTEC?tab=repositories)-BRAIN lab (to be explored)
+- [pbashivan/EEGLearn](https://github.com/pbashivan/EEGLearn)
+- [kylemath/EEGEdu](https://github.com/kylemath/EEGEdu)
  
 * Researcher Githubs
 - [Vinay Jayaram meta](https://github.com/vinay-jayaram) (TL)
 - [Felix Heilmeyer](https://github.com/heilerich) - Freiburg University Medical Center
+- [Data analyst, Brain researcher, Pain psychology neuroscientist](https://github.com/intanintanintan?tab=repositories)
+- [Aung Aung Phyo Wai -- researcher NTU Nanyang Technological University
+Singapor ](https://github.com/aung2phyowai)
 - 
+
 
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)

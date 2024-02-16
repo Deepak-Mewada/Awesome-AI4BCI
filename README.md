@@ -15,7 +15,11 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 
 # Papers
+- [Towards Zero Training for Brain-Computer Interfacing](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002967&type=printable)
+- [Evaluation Criteria for BCI Research](https://www.researchgate.net/publication/265674435_Evaluation_Criteria_for_BCI_Research?enrichId=rgreq-53481f2025712ffdb7e699577fd5f73e-XXX&enrichSource=Y292ZXJQYWdlOzI2NTY3NDQzNTtBUzo0MDYyNDM0NjMxODg0ODRAMTQ3Mzg2NzM5NzMxMQ%3D%3D&el=1_x_3&_esc=publicationCoverPdf)
+- 
 
+  
 ## Survey
 - [International Winter Workshop on Brain-Computer Interface (BCI)](https://ieeexplore.ieee.org/xpl/conhome/10078410/proceeding?isnumber=10078447&sortType=vol-only-seq&pageNumber=1)] <br>
 <sub>IEEE Xplore & 2023. </sub>
@@ -29,6 +33,12 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 - [EEG-ITNet: An Explainable Inception Temporal Convolutional Network for Motor Imagery Classification](https://paperswithcode.com/paper/eeg-itnet-an-explainable-inception-temporal)
 - [MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/9658165) - [Supple](https://github.com/IoBT-VISTEC/MIN2Net/blob/main/supplementary%20materials/Supplementary%20Materials.pdf) - (Tool Python API)
 - 
+## Multi-task leanring for BCI
+- [Multitask Learning for Brain-Computer Interfaces](https://proceedings.mlr.press/v9/alamgir10a/alamgir10a.pdf)
+- [Multi-Task Logistic Regression in Brain-Computer Interfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844582&tag=1)
+- [Transfer Learning
+in Brain-Computer
+Interfaces]([https://www.taylorfrancis.com/pdfviewer/](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7379089))
 
 ## FSL4BCI
 #### MI-BCI
@@ -165,13 +175,27 @@ CVPR & Year. </sub>
 <sub><em>Xiaoxu Li a,1, Zhuo Sun b,1, Jing-Hao Xue b,⇑, Zhanyu Ma c ,Neurocomputing & 28/10/2020.</em> </sub>
 - [Meta-learning approaches for learning-to-learn in deep learning: A survey]([https://www.](https://www.sciencedirect.com/science/article/pii/S0925231222004684?via%3Dihub))] <br>
 <sub><em>Yingjie Tian a,b,c,⇑, Xiaoxi Zhao a,b,c, Wei Huang  | Neurocomputing & 21/04/2022. </em></sub>
+- [Comparing Transfer and Meta Learning Approaches on a Unified Few-Shot Classification Benchmark
+](https://arxiv.org/pdf/2104.02638.pdf)
+- [A Unified Few-Shot Classification Benchmark to Compare Transfer and Meta Learning Approaches](https://openreview.net/pdf?id=Q0hm0_G1mpH)
+- [Blog - Meta Leaning is all you need](https://jameskle.com/writes/meta-learning-is-all-you-need)
+- [Blog - Summary of Few shot Learning and Meta learning concepts ](https://huidea.tistory.com/252)
 
 * Metaleanring in other similar domain
 - [Few Is Enough: Task-Augmented Active Meta-Learning for Brain Cell Classification](https://arxiv.org/pdf/2007.05009.pdf)
 - [ENHANCING GENERALIZATION OF FIRST-ORDER META-LEARNING](https://openreview.net/pdf?id=rJlzbihzdE) - Reptile updated version -2019
 - [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf)
 
+* MetaL Applicaiton
+  - [Meta-ED: Cross-lingual Event Detection Using Meta-learning for Indian Languages](https://dl.acm.org/doi/pdf/10.1145/3555340)
+  - 
 
+
+* TL in other similar domain
+  - [Boosting for Transfer Learning](https://dl.acm.org/doi/pdf/10.1145/1273496.1273521)
+  - 
+
+ 
 # Thesis
 -  [FEW-SHOT CLASSIFICATION OF EEG WITH QUASI-INDUCTIVE TRANSFER LEARNING](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9104237&fileOId=9104238) | Bachelor thesis
 
@@ -186,20 +210,28 @@ CVPR & Year. </sub>
 - [SSVEP pipeline UCSD Challange](https://github.com/YundongWang/BCI_Challenge)
 - [Key packages for Signal Processing](https://percve.notion.site/percve/Key-packages-for-Signal-Processing-68ce7830bc4e4ef0ae323c5767ce85cf)
 - [ML-DL for EEG- INTERFACES*](https://github.com/IoBT-VISTEC?tab=repositories)-BRAIN lab (to be explored)
+ 
+* Researcher Githubs
+- [Vinay Jayaram meta](https://github.com/vinay-jayaram) (TL)
+- [Felix Heilmeyer](https://github.com/heilerich) - Freiburg University Medical Center
+- 
 
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)
 
 # Books 
 - [NEUROSCIENCE EXPLORING THE BRAIN](https://www.booksfree.org/wp-content/uploads/2022/04/Neuroscience-Exploring-the-Brain-by-Mark-F-Barry-W-Michael-A-booksfree.org_.pdf) - has good brief EEG details
+- [Brain Computer Interface handbook- Fabien Lotte, Chang Nam, Anton Nijholt --2018](https://www.taylorfrancis.com/pdfviewer/)
 
 # BCi Starter Learning Courses or Tutotials
 - [TNT Academy](https://aware-toothpaste-9f2.notion.site/Home-TNT-Academy-8a67e74884254289b6aa65730574a298)
 -  [brain Encoding Decoding Conferences](https://main-educational.github.io/material.html#brain-decoding)
 -  [Deep Learning for EEGs and BCI : (How I Managed to get 94% score model](https://peijin.medium.com/deep-learning-for-eegs-nad-bci-some-notes-and-some-warnings-28cfc3015a98)
 -  [Deep Learning for EEGs and BCI : (How I Managed to get 94% score model.)](https://peijin.medium.com/deep-learning-for-eegs-nad-bci-some-notes-and-some-warnings-28cfc3015a98)
-
-  ### Kaggle Compitition on EEG
+- [Colab - Tutorial on EEG processing to classification ](https://colab.research.google.com/drive/1CGDhmgra7D_q0oNL417H2HMXRpt1Bv5N?usp=sharing#scrollTo=aaN9u4FLP8gt)
+- [Colab Notebook - Braindecode_Tutorial.ipynb](https://colab.research.google.com/drive/1cHFiXN31ycQ9SuTURy9aEyVRcsPjUWW_)
+- 
+### Kaggle Compitition on EEG
    - [Grasp-and-Lift EEG Detection Identify hand motions from EEG recordings](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/leaderboard?)
    - 
 
@@ -227,6 +259,11 @@ CVPR & Year. </sub>
 ## DL4EEG - newbie resource
 - [Review of the BCI competition IV](http://www.frontiersin.org/Neuroprosthetics/10.3389/fnins.2012.00055/abstract)
 - [Deep learning with convolutional neural networks for EEG decoding and visualization](https://onlinelibrary.wiley.com/doi/10.1002/hbm.23730)
+- []()
+
+## DL4BCI Researcher \ google Scholars
+- [Robin Tibor Schirrmeister](https://scholar.google.de/citations?user=lpuMlzsAAAAJ&hl=de)-
+PhD Candidate, Neuromedical AI Lab and Machine Learning Lab, University Freiburg
 - []()
 
 ------------------------------------------------

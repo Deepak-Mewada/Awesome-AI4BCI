@@ -15,6 +15,12 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 
 # Papers
+
+## New arrivals
+- [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/pdf/2402.10251.pdf)
+- 
+
+###General
 - [Towards Zero Training for Brain-Computer Interfacing](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002967&type=printable)
 - [Evaluation Criteria for BCI Research](https://www.researchgate.net/publication/265674435_Evaluation_Criteria_for_BCI_Research?enrichId=rgreq-53481f2025712ffdb7e699577fd5f73e-XXX&enrichSource=Y292ZXJQYWdlOzI2NTY3NDQzNTtBUzo0MDYyNDM0NjMxODg0ODRAMTQ3Mzg2NzM5NzMxMQ%3D%3D&el=1_x_3&_esc=publicationCoverPdf)
 - 

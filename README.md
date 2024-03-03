@@ -225,8 +225,10 @@ CVPR & Year. </sub>
 - [Data analyst, Brain researcher, Pain psychology neuroscientist](https://github.com/intanintanintan?tab=repositories)
 - [Aung Aung Phyo Wai -- researcher NTU Nanyang Technological University
 Singapor ](https://github.com/aung2phyowai)
-- 
 
+* Few-Shot Github
+- [Few-Shot Neuroimaging](https://github.com/mbonto/fewshot_neuroimaging_classification?tab=readme-ov-file)(Few-Shot leanring for Brain activation map) \
+- 
 
 # Conferences
 - [DeepBCI](http://deepbci.korea.ac.kr/conference/)

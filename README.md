@@ -42,10 +42,14 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 ## Multi-task leanring for BCI
 - [Multitask Learning for Brain-Computer Interfaces](https://proceedings.mlr.press/v9/alamgir10a/alamgir10a.pdf)
 - [Multi-Task Logistic Regression in Brain-Computer Interfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844582&tag=1)
-- [Transfer Learning
-in Brain-Computer
-Interfaces]([https://www.taylorfrancis.com/pdfviewer/](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7379089))
+- [Transfer Learning in Brain-Computer Interfaces]([https://www.taylorfrancis.com/pdfviewer/](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7379089))
 
+
+## Transfer-Learning for EEG
+- [Adaptive transfer learning for EEG motor imagery classification with deep Convolutional Neural Network](https://www.sciencedirect.com/science/article/pii/S0893608020304305?ref=pdf_download&fr=RR-2&rr=881822e31a7f89e2)
+- [EEG based multi-class seizure type classification using convolutional neural network and transfer learning](https://www.sciencedirect.com/science/article/pii/S0893608020300198?via%3Dihub)
+- [Transfer learning promotes acquisition of individual BCI skills](https://academic.oup.com/pnasnexus/article/3/2/pgae076/7609232?login=true)
+ 
 ## FSL4BCI
 #### MI-BCI
 - [Dual Attention Relation Network With Fine-Tuning for Few-Shot EEG Motor Imagery Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10167679&tag=1)

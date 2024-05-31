@@ -284,6 +284,8 @@ Singapor ](https://github.com/aung2phyowai)
 PhD Candidate, Neuromedical AI Lab and Machine Learning Lab, University Freiburg
 - []()
 
+## Lab
+- [Brain & behaviour Lab](https://faisallab.org/)
 ------------------------------------------------
 so the next section is my brainstorming place for futur eof BCI -
 This is in idation phase and you find it intersting or have something to share then I would love to hear you- please mail me at deepakmewada96@kgpain.iitkgp.ac.in

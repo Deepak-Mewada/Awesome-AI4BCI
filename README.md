@@ -141,7 +141,7 @@ emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.20
 - [Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BC](https://iopscience.iop.org/article/10.1088/1741-2552/aaf3f6/pdf)] - <em> Journal of Neural Engineering & 2019. </em></sub>
 - [paper](https://ieeexplore.ieee.org/document/10266354)
 
-### Zero-Claibration BCI
+### Zero-Calibration BCI
 - [Switching EEG Headsets Made Easy: Reducing Offline Calibration Effort Using Active Weighted Adaptation Regularization** ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7436820)] <br>
 <sub><em>Dongrui Wu, Vernon J. Lawhern, W. David Hairston, and Brent J. Lance, Senior Member, IEEE  - 
 IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING,  & 2016. </em></sub>
@@ -174,6 +174,7 @@ journal & 2008. </sub>
 * Corpus
 - [Physionet.org/](https://physionet.org/about/database/)
 - [A list of all public EEG-datasets.](https://github.com/meagmohit/EEG-Datasets)
+- [Big list(pdf) of Publicly Available EEG Datasets](https://media.licdn.com/dms/document/media/D4E1FAQENuOZmxpgUcA/feedshare-document-pdf-analyzed/0/1693330098799?e=1718841600&v=beta&t=BrWjz5CwxUm9azubvfaCOb5n725fbEosBbk86_a6h4A)
 
 # General AI papers
 - [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] <br>

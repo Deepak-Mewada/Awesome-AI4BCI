@@ -162,6 +162,7 @@ with Multiple Heterogeneous EEG Datasets(]https://ieeexplore.ieee.org/stamp/stam
 
  
 ## DataSet
+
 - [Healthy Brain Network (HBN) Scientific Data Portal - EEG and other biosignal](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/index.html)
 - [A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface](https://www.nature.com/articles/s41597-022-01647-1)] <br>
 <sub><em>Jun Ma, Banghua Yang, Wenzheng Qiu, Yunzhe Li, Shouwei Gao & Xinxing Xia </em> 
@@ -170,12 +171,16 @@ Nature & 01/09/2022. </sub>
 <sub><em>C. Brunner, R. Leeb1, G. R. M¨uller-Putz1, A. Schl¨ogl, and G.Pfurtscheller | </em>
 journal & 2008. </sub>
 - [Evaluation Criteria for BCI Research](https://ieeexplore.ieee.org/document/6281214?signout=success)] <br>
-<sub><em>MIT PRess |2007 </em></sub>
+<sub><em>MIT Press |2007 </em></sub>
 - [Sleep Physionet dataset](https://github.com/agramfort/22_main_ml_meeg_tuto/blob/main/6-dl_sleep_staging.ipynb)- Alexander Grahmfort
+
 * Corpus
 - [Physionet.org/](https://physionet.org/about/database/)
 - [A list of all public EEG-datasets.](https://github.com/meagmohit/EEG-Datasets)
 - [Big list(pdf) of Publicly Available EEG Datasets](https://media.licdn.com/dms/document/media/D4E1FAQENuOZmxpgUcA/feedshare-document-pdf-analyzed/0/1693330098799?e=1718841600&v=beta&t=BrWjz5CwxUm9azubvfaCOb5n725fbEosBbk86_a6h4A)
+- [List of publicly available EEG Datasets - Diseases and Sleep ](https://github.com/hubandad/eeg-dataset)
+- [EEG dataset and OpenBMI toolbox for three BCI paradigms: an investigation into BCI illiteracy](https://academic.oup.com/gigascience/article/8/5/giz002/5304369)
+  
 
 # General AI papers
 - [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] <br>

@@ -17,10 +17,12 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 # Papers
 
 ## New arrivals
+
+### Foundation EEG Model - Towards LLM of EEG
 - [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/pdf/2402.10251.pdf)
 - 
 
-###General
+### General
 - [Towards Zero Training for Brain-Computer Interfacing](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002967&type=printable)
 - [Evaluation Criteria for BCI Research](https://www.researchgate.net/publication/265674435_Evaluation_Criteria_for_BCI_Research?enrichId=rgreq-53481f2025712ffdb7e699577fd5f73e-XXX&enrichSource=Y292ZXJQYWdlOzI2NTY3NDQzNTtBUzo0MDYyNDM0NjMxODg0ODRAMTQ3Mzg2NzM5NzMxMQ%3D%3D&el=1_x_3&_esc=publicationCoverPdf)
 - 
@@ -38,7 +40,12 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://proceedings.neurips.cc/paper_files/paper/2022/file/c981fd12b1d5703f19bd8289da9fc996-Paper-Conference.pdf) - geometric learning
 - [EEG-ITNet: An Explainable Inception Temporal Convolutional Network for Motor Imagery Classification](https://paperswithcode.com/paper/eeg-itnet-an-explainable-inception-temporal)
 - [MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification](https://ieeexplore.ieee.org/document/9658165) - [Supple](https://github.com/IoBT-VISTEC/MIN2Net/blob/main/supplementary%20materials/Supplementary%20Materials.pdf) - (Tool Python API)
-- 
+
+
+## Self-Supervised Learning in EEG
+- [EEG-Oriented Self-Supervised Learning and Cluster-Aware Adaptation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557589) [Github](https://github.com/wko1014/EOSSL_CAA)
+- [Self-Supervised Transformer Model Training for a Sleep-EEG Foundation Model](https://www.biorxiv.org/content/10.1101/2024.01.18.576245v3.full.pdf)
+  
 ## Multi-task leanring for BCI
 - [Multitask Learning for Brain-Computer Interfaces](https://proceedings.mlr.press/v9/alamgir10a/alamgir10a.pdf)
 - [Multi-Task Logistic Regression in Brain-Computer Interfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844582&tag=1)

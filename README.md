@@ -20,7 +20,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 ### Foundation EEG Model - Towards LLM of EEG
 - [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/pdf/2402.10251.pdf)
-- 
+- [Assessing the Capabilities of Large Brainwave Foundation Models](https://openreview.net/forum?id=ADU3uNKLLJ&referrer=%5Bthe%20profile%20of%20Stylianos%20Bakas%5D(%2Fprofile%3Fid%3D~Stylianos_Bakas1))
 
 ### General
 - [Towards Zero Training for Brain-Computer Interfacing](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002967&type=printable)
@@ -300,6 +300,9 @@ PhD Candidate, Neuromedical AI Lab and Machine Learning Lab, University Freiburg
 
 ## Lab
 - [Brain & behaviour Lab](https://faisallab.org/)
+
+## AI/ML/DL Interview
+- [AI ML DL INterview Question Sheet for preparation](https://docs.google.com/spreadsheets/d/1wr_dzuQ9xsWi3Imo-YCTYBxBip_0sqaKeejTkmzTQDM/edit?pli=1&gid=0#gid=0)
 ------------------------------------------------
 so the next section is my brainstorming place for futur eof BCI -
 This is in idation phase and you find it intersting or have something to share then I would love to hear you- please mail me at deepakmewada96@kgpain.iitkgp.ac.in

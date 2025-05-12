@@ -17,7 +17,10 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 # Papers
 
 ## New arrivals
+- [Few-shot learning for EEG classificaiton- a Survey](https://www.readcube.com/articles/10.3389/fnhum.2024.1421922)
+- [EEG Helps Few-Shot learning](https://github.com/SaMueL1u/EEG_HELPS_FEW_SHOT_LEARNING/tree/main)
 
+  
 ### Foundation EEG Model - Towards LLM of EEG
 - [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/pdf/2402.10251.pdf)
 - [Assessing the Capabilities of Large Brainwave Foundation Models](https://openreview.net/forum?id=ADU3uNKLLJ&referrer=%5Bthe%20profile%20of%20Stylianos%20Bakas%5D(%2Fprofile%3Fid%3D~Stylianos_Bakas1))
@@ -46,6 +49,12 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 - [EEG-Oriented Self-Supervised Learning and Cluster-Aware Adaptation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557589) [Github](https://github.com/wko1014/EOSSL_CAA)
 - [Self-Supervised Transformer Model Training for a Sleep-EEG Foundation Model](https://www.biorxiv.org/content/10.1101/2024.01.18.576245v3.full.pdf)
   
+
+## NLP-Inspired EEG Works
+- (EEG-CLIP: Learning EEG representations from natural language descriptions)[https://arxiv.org/pdf/2503.16531] (code)[https://github.com/tidiane-camaret/eegclip]
+
+
+
 ## Multi-task leanring for BCI
 - [Multitask Learning for Brain-Computer Interfaces](https://proceedings.mlr.press/v9/alamgir10a/alamgir10a.pdf)
 - [Multi-Task Logistic Regression in Brain-Computer Interfaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7844582&tag=1)
@@ -56,8 +65,21 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 - [Adaptive transfer learning for EEG motor imagery classification with deep Convolutional Neural Network](https://www.sciencedirect.com/science/article/pii/S0893608020304305?ref=pdf_download&fr=RR-2&rr=881822e31a7f89e2)
 - [EEG based multi-class seizure type classification using convolutional neural network and transfer learning](https://www.sciencedirect.com/science/article/pii/S0893608020300198?via%3Dihub)
 - [Transfer learning promotes acquisition of individual BCI skills](https://academic.oup.com/pnasnexus/article/3/2/pgae076/7609232?login=true)
- 
+
+
+## EEG Libraries
+- [EEG-Reptile: An Automatized Reptile-Based Meta-Learning Library for BCIs](https://arxiv.org/pdf/2412.19725)
+
+## High Imapct Paper from good venues
+- NeurIPS2018 [Multivariate Convolutional Sparse Coding for Electromagnetic
+Brain Signals](https://arxiv.org/pdf/1805.09654v2)[code](https://github.com/alphacsc/alphacsc)
+
 ## FSL4BCI
+
+- [Few-shot learning for EEG classificaiton- a Survey](https://www.readcube.com/articles/10.3389/fnhum.2024.1421922)
+- [EEG Helps Few-Shot learning](https://github.com/SaMueL1u/EEG_HELPS_FEW_SHOT_LEARNING/tree/main)
+
+  
 #### MI-BCI
 - [Dual Attention Relation Network With Fine-Tuning for Few-Shot EEG Motor Imagery Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10167679&tag=1)
 - [Decoding Multi-Brain Motor Imagery from EEG Using Coupling Feature Extraction and Few-Shot Learning](https://europepmc.org/article/med/37995161#full-text-links) <br>

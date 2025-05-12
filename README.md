@@ -69,6 +69,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
 ## EEG Libraries
 - [EEG-Reptile: An Automatized Reptile-Based Meta-Learning Library for BCIs](https://arxiv.org/pdf/2412.19725)
+- [EEG Deep Learning Library](https://github.com/SuperBruceJia/EEG-DL)
 
 ## High Imapct Paper from good venues
 - NeurIPS2018 [Multivariate Convolutional Sparse Coding for Electromagnetic

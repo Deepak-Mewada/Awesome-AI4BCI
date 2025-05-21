@@ -321,6 +321,10 @@ Singapor ](https://github.com/aung2phyowai)
 PhD Candidate, Neuromedical AI Lab and Machine Learning Lab, University Freiburg
 - []()
 
+## DL Resource
+- [Learn Dl with notebook and visualization](https://d2l.ai/)
+
+  
 ## Lab
 - [Brain & behaviour Lab](https://faisallab.org/)
 

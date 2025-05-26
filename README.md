@@ -148,7 +148,8 @@ emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.20
 <sub><em>Magdiel Jiménez-Guarneros , Gibran Fuentes-Pineda -Biomedical Signal Processing and Control & 22/06/2023.</em></sub>
 
 ## Transformer4BCI
-- [paper](https://ieeexplore.ieee.org/document/10266354)
+- [Exploring the Potential of Attention Mechanism-Based Deep Learning for Robust Subject-Independent Motor-Imagery Based BCIs](https://ieeexplore.ieee.org/document/10266354)
+- [An Interpretable Contrastive Learning Transformer for EEG-Based Person Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003984)
 
 ## ExAI4BCI
 - [Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf) <br>

@@ -204,6 +204,7 @@ journal & 2008. </sub>
 - [Evaluation Criteria for BCI Research](https://ieeexplore.ieee.org/document/6281214?signout=success)] <br>
 <sub><em>MIT Press |2007 </em></sub>
 - [Sleep Physionet dataset](https://github.com/agramfort/22_main_ml_meeg_tuto/blob/main/6-dl_sleep_staging.ipynb)- Alexander Grahmfort
+- [Multimodel EEG ](https://github.com/willxxy/awesome-mmps?tab=readme-ov-file#datasets)
 
 * Corpus
 - [Physionet.org/](https://physionet.org/about/database/)
@@ -260,6 +261,7 @@ CVPR & Year. </sub>
 - [ML-DL for EEG- INTERFACES*](https://github.com/IoBT-VISTEC?tab=repositories)-BRAIN lab (to be explored)
 - [pbashivan/EEGLearn](https://github.com/pbashivan/EEGLearn)
 - [kylemath/EEGEdu](https://github.com/kylemath/EEGEdu)
+- [Corpus of resources for multimodal machine learning with physiological signals.](https://github.com/willxxy/awesome-mmps?tab=readme-ov-file#datasets)
  
 * Researcher Githubs
 - [Vinay Jayaram meta](https://github.com/vinay-jayaram) (TL)

@@ -24,6 +24,8 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 ### Foundation EEG Model - Towards LLM of EEG
 - [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/pdf/2402.10251.pdf)
 - [Assessing the Capabilities of Large Brainwave Foundation Models](https://openreview.net/forum?id=ADU3uNKLLJ&referrer=%5Bthe%20profile%20of%20Stylianos%20Bakas%5D(%2Fprofile%3Fid%3D~Stylianos_Bakas1))
+- [Large Cognition Model: Towards Pretrained
+- Electroencephalography (EEG) Foundation Model](https://arxiv.org/pdf/2502.17464)
 
 ### General
 - [Towards Zero Training for Brain-Computer Interfacing](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0002967&type=printable)

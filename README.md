@@ -152,6 +152,8 @@ emotion recognition](http://crossmark.crossref.org/dialog/?doi=10.1016/j.bspc.20
 ## Transformer4BCI
 - [Exploring the Potential of Attention Mechanism-Based Deep Learning for Robust Subject-Independent Motor-Imagery Based BCIs](https://ieeexplore.ieee.org/document/10266354)
 - [An Interpretable Contrastive Learning Transformer for EEG-Based Person Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003984)
+- [Utilizing Pretrained Vision Transformers and Large
+Language Models for Epileptic Seizure Prediction](https://www.biorxiv.org/content/10.1101/2024.11.03.621742v1.full.pdf) - EpilepticSeizure,LLM,VIsion, 2025
 
 ## ExAI4BCI
 - [Interpretable deep neural networks for single-trial EEG classification](https://www.sciencedirect.com/science/article/pii/S0165027016302333/pdfft?md5=3bf16b53e18a1ab95e3ffbf186c461ca&pid=1-s2.0-S0165027016302333-main.pdf) <br>
@@ -215,7 +217,8 @@ journal & 2008. </sub>
 - [List of publicly available EEG Datasets - Diseases and Sleep ](https://github.com/hubandad/eeg-dataset)
 - [EEG dataset and OpenBMI toolbox for three BCI paradigms: an investigation into BCI illiteracy](https://academic.oup.com/gigascience/article/8/5/giz002/5304369)
   
-
+# Researchers
+- [transformer EEG](https://www.linkedin.com/in/paras-parani)
 # General AI papers
 - [Meta-Transfer Learning for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] <br>
 <sub><em>Qianru Sun1,3∗ Yaoyao Liu2∗ Tat-Seng Chua1 Bernt Schiele3</em>
@@ -332,6 +335,7 @@ PhD Candidate, Neuromedical AI Lab and Machine Learning Lab, University Freiburg
   
 ## Lab
 - [Brain & behaviour Lab](https://faisallab.org/)
+- [Precision Computational Health and Biomedical Data Science Lab-USA Transformer](https://pcdslab.github.io/)
 
 ## AI/ML/DL Interview
 - [AI ML DL INterview Question Sheet for preparation](https://docs.google.com/spreadsheets/d/1wr_dzuQ9xsWi3Imo-YCTYBxBip_0sqaKeejTkmzTQDM/edit?pli=1&gid=0#gid=0)

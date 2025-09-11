@@ -209,7 +209,9 @@ journal & 2008. </sub>
 <sub><em>MIT Press |2007 </em></sub>
 - [Sleep Physionet dataset](https://github.com/agramfort/22_main_ml_meeg_tuto/blob/main/6-dl_sleep_staging.ipynb)- Alexander Grahmfort
 - [Multimodel EEG ](https://github.com/willxxy/awesome-mmps?tab=readme-ov-file#datasets)
-- [I-CARE: International Cardiac Arrest REsearch consortium Database](https://physionet.org/content/i-care/2.1/)
+Recent Entries 
+- [I-CARE: International Cardiac Arrest REsearch consortium Database 2023](https://physionet.org/content/i-care/2.1/) [ML](https://github.com/physionetchallenges/python-example-2023?tab=readme-ov-file) [DL](https://github.com/bdsp-core/icare-dl)
+- [Outcome prediction from sleep brain activity(2023)](https://github.com/bdsp-core/sleep-outcome-prediction)
 
 * Corpus
 - [Physionet.org/](https://physionet.org/about/database/)

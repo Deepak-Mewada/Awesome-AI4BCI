@@ -209,6 +209,7 @@ journal & 2008. </sub>
 <sub><em>MIT Press |2007 </em></sub>
 - [Sleep Physionet dataset](https://github.com/agramfort/22_main_ml_meeg_tuto/blob/main/6-dl_sleep_staging.ipynb)- Alexander Grahmfort
 - [Multimodel EEG ](https://github.com/willxxy/awesome-mmps?tab=readme-ov-file#datasets)
+- [I-CARE: International Cardiac Arrest REsearch consortium Database](https://physionet.org/content/i-care/2.1/)
 
 * Corpus
 - [Physionet.org/](https://physionet.org/about/database/)

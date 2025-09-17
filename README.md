@@ -22,6 +22,7 @@ AI, especially Deep Learning, has made breakthroughs in learning from Brain Sign
 
   
 ### Foundation EEG Model - Towards LLM of EEG
+- [Large Cognition Model: Towards Pretrained Electroencephalography (EEG) Foundation Model](https://arxiv.org/pdf/2502.17464)
 - [NeuroDx-LM: A Clinical Large-Scale Model for EEG-based Neurological Disorder Detection](https://arxiv.org/pdf/2508.08124)
 - [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/pdf/2402.10251.pdf)
 - [Assessing the Capabilities of Large Brainwave Foundation Models](https://openreview.net/forum?id=ADU3uNKLLJ&referrer=%5Bthe%20profile%20of%20Stylianos%20Bakas%5D(%2Fprofile%3Fid%3D~Stylianos_Bakas1))
